@@ -22,6 +22,12 @@ params:
   # Repository configuration (URLs for in-page links to opening issues and suggesting changes)
   github_repo: 'https://github.com/dgra-cam/site-dgra-dev'
 
+  # Enable Algolia DocSearch
+  search.algolia: false
+
+  # Enable Lunr.js offline search
+  offlineSearch: true
+
   # User interface configuration
   ui:
     # Set to true to disable breadcrumb navigation.
