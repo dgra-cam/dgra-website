@@ -1,7 +1,12 @@
 baseURL: 'https://example.org/'
 languageCode: 'en-us'
-title: 'My New Hugo Site'
+title: DGRA
 module:
   proxy: "direct"
   imports:
     path: "github.com/google/docsy"
+
+markup:
+  goldmark:
+    renderer:
+      unsafe: true
