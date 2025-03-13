@@ -1,0 +1,42 @@
+name: Test build
+
+on:
+  pull_request: {}
+  push:
+    branches:
+      - main
+  merge_group:
+    types: [checks_requested]
+
+concurrency:
+  group: ${{ github.workflow }}-${{ github.event.pull_request.number || github.event.after || github.event.merge_group && github.run_id }}
+  cancel-in-progress: ${{ !github.event.merge_group }}
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout code
+        uses: actions/checkout@v4
+        with:
+          persist-credentials: false
+          fetch-depth: 1
+
+      - name: Install dependencies
+        run: |
+          npm install -D autoprefixer
+          npm install -D postcss-cli
+          npm install -D postcss
+
+      - name: Build website
+        run: |
+          make build
+
+      - name: Check vendored dependencies
+        run: |
+          make vendor
+          if ! git diff --quiet ; then
+              echo '::error::Dependencies have changed'
+              echo 'Please run `make vendor` locally and commit the changes.'
+              exit 1
+          fi
