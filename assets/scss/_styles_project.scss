@@ -1,3 +1,9 @@
+/* Remove captions from list of blog posts */
+.td-blog-posts-list__body figcaption {
+  display: none !important;
+}
+
+/* Adjust link colours on home page */
 .td-box--light p > a, .td-box--light span > a {
   color: $primary;
   text-decoration: none;
