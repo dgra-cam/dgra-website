@@ -1,3 +1,7 @@
-$primary: #008000;
-$secondary: #ff8000;
-//$link-color: $secondary;
+$primary: #316b29;
+$secondary: #ca6510; // Boostrap's orange-600
+
+$light: tint-color($primary, 60%);
+$dark: #212529; // Bootstrap's dark
+
+$link-color: #198754; // Bootstrap's green

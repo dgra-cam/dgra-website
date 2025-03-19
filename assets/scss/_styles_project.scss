@@ -1,0 +1,48 @@
+.td-box--light p > a, .td-box--light span > a {
+  color: $primary;
+  text-decoration: none;
+  font-weight: 600;
+  &:hover {
+    color: shade-color($primary, 40);
+  }
+}
+
+.td-cover-block p > a,
+.td-cover-block span > a {
+  color: $secondary !important;
+  text-decoration: none;
+  font-weight: 600;
+  &:hover {
+    color: shade-color($secondary, 40) !important;
+  }
+}
+
+.td-box--primary p > a,
+.td-box--primary span > a {
+  color: $secondary;
+  text-decoration: none;
+  font-weight: 600;
+  &:hover {
+    color: shade-color($secondary, 20);
+  }
+}
+
+.td-box--dark p > a,
+.td-box--dark span > a {
+  color: tint-color($link-color, 70);
+  text-decoration: none;
+  font-weight: 600;
+  &:hover {
+    color: tint-color($link-hover-color, 50);
+  }
+}
+
+.td-footer p > a,
+.td-footer span > a {
+  color: tint-color($link-color, 70);
+  text-decoration: underline;
+  font-weight: normal;
+  &:hover {
+    color: tint-color($link-hover-color, 50);
+  }
+}
