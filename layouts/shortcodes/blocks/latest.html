@@ -1,0 +1,41 @@
+{{ $col_id := .Get "color" | default .Ordinal -}}
+{{ $height := .Get "height" | default "auto" -}}
+{{ with .Get "height" -}}
+  {{ if not ( or ( eq . "auto" ) ( eq . "min" ) ( eq . "med" ) ( eq . "max" ) ( eq . "full" ) ) -}}
+    {{ errorf "shortcode 'lead': parameter height is %q, must be one of 'auto', 'min', 'med', 'max' or 'full'." . -}}
+  {{ end -}}
+{{ end -}}
+{{ $type := .Get "type" | default "blog" -}}
+
+<div><a id="td-block-{{ .Ordinal }}" class="td-offset-anchor"></a></div>
+<section class="row td-box td-box--{{ $col_id }} position-relative td-box--height-{{ $height }}">
+  <div class="col text-center">
+    <p class="h2 mb-4">
+    {{ .Inner }}
+    </p>
+    <div class="row td-arrow-down">
+      {{/* Do NOT remove this comment! It ends the HTML block above. See https://spec.commonmark.org/0.30/#html-blocks, 7. */}}
+      {{ with $pages := where .Site.RegularPages "Section" $type -}}
+      {{ range $pages.Limit 3 -}}
+      <div class="col-lg-4 mb-5 mb-lg-0">
+        <a href="{{ .RelPermalink }}">
+        {{ $image := (.Resources.ByType "image").GetMatch "**featured*" }}
+        {{ with $image }}
+        {{ $image := .Fill (printf "%dx%d" 600 400 ) }}
+          <img src="{{ $image.RelPermalink }}" alt="Featured Image for {{ .Title }}" width="100%" class="rounded" style="max-height: 600px;">
+        {{ end }}
+        </a>
+        <p class="h3 mt-3">
+          <a href="{{ .RelPermalink }}">{{ .Title }}</a>
+        </p>
+        <p class="mt-0 mb-1">{{ .Description }}</p>
+      </div>
+      {{ end }}
+      {{ end }}
+      <p class="h4 mt-4">
+        <a href="{{ $type }}" aria-label="{{ T "ui_read_more"}}">{{ T "ui_read_more"}}</a>
+      </p>
+    </div>
+  </div>
+</section>
+{{/**/ -}}

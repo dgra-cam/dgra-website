@@ -1,0 +1,12 @@
+{{ $icon := .Get "icon" -}}
+<div class="col-lg-6 mb-5 mb-lg-0 fs-4">
+  <h4 class="h2 mb-4">
+    {{ if $icon }}
+    <i class="me-2 {{ if not (or (hasPrefix $icon "fas ") (hasPrefix $icon "fab ")) }}fas {{ end }}{{ $icon }}"></i>
+    {{ end }}
+    {{- .Get "title" | markdownify -}}
+  </h4>
+  <div class="mb-0">
+  {{ .Inner }}
+  </div>
+</div>
