@@ -35,7 +35,7 @@ active residents’ association. So far, we have been:
 {{% /blocks/twocolumns %}}
 
 {{< blocks/twocolumns >}}
-<img src="dgmap.jpg" class="img-fluid rounded" alt="Darwin Green map (Google Maps)">
+<img src="dgmap.png" class="img-fluid rounded" alt="Darwin Green map (Google Maps)">
 {{< /blocks/twocolumns >}}
 {{< /blocks/section >}}
 
