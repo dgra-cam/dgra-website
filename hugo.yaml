@@ -34,8 +34,6 @@ params:
     breadcrumb_disable: true
     # Set to true to enable the About link in the site footer
     footer_about_enable: true
-    # Set to false if you don't want to display a logo (/assets/icons/logo.svg) in the top navbar
-    navbar_logo: false
 
     showLightDarkModeMenu: true
 

@@ -4,11 +4,13 @@ title: 'About DGRA'
 
 {{< blocks/cover title="About DGRA" image_anchor="bottom" height="full" color="primary" >}}
 
-<div class="fs-3 fw-normal" style="max-width: 1000px; margin: auto;">
+<img width="300" src="dgra.svg" class="mb-4">
 
-  The DGRA is a non-profit, apolitical association that aims to represent and
-  promote the interests of all residents living in Darwin Green and adjacent
-  areas.
+<div class="fs-3 fw-normal" style="max-width: 800px; margin: auto;">
+
+  **Darwin Green Residents’ Association (DGRA)** is a non-profit, apolitical
+  association that aims to represent and promote the interests of all residents
+  living in Darwin Green and adjacent areas.
 
   We seek to improve conditions for the residents and offer events to develop
   the sense of community in the area.
