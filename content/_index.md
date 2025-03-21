@@ -43,11 +43,13 @@ active residents’ association. So far, we have been:
 News from Darwin Green
 {{< /blocks/latest >}}
 
+<!--
 {{< blocks/latest color="light" type="docs" >}}
 Community & DGRA projects
 {{< /blocks/latest >}}
+-->
 
-{{< blocks/section color="dark" type="container" >}}
+{{< blocks/section color="light" type="container" >}}
 <div id="home_calendar" class="text-center">
   <iframe src="https://calendar.google.com/calendar/embed?height=500&wkst=2&ctz=Europe%2FLondon&mode=MONTH&hl=en_GB&showPrint=0&showTz=0&src=MjFlMTRhN2Y2NDAzNDc4NzEwMGIxOTBiNmQ3M2VjZDg4Mjc1NzJkZDM4NDhiYzBmMWU1MmIxNGIyYzBlNmI2N0Bncm91cC5jYWxlbmRhci5nb29nbGUuY29t&color=%230B8043"
     style="border-width:0; margin-top: 4ex;"
