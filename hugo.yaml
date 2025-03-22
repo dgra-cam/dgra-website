@@ -20,7 +20,7 @@ params:
   copyright: 'Darwin Green Residents’ Association'
 
   # Repository configuration (URLs for in-page links to opening issues and suggesting changes)
-  github_repo: 'https://github.com/dgra-cam/site-dgra-dev'
+  github_repo: 'https://github.com/dgra-cam/dgra-website'
 
   # Enable Algolia DocSearch
   search.algolia: false
@@ -51,7 +51,7 @@ params:
     # Developer relevant links. These will show up on right side of footer and in the community page if you have one.
     developer:
     - name: 'GitHub'
-      url: 'https://github.com/dgra-cam/site-dgra-dev'
+      url: 'https://github.com/dgra-cam/dgra-website'
       icon: 'fab fa-github'
       desc: 'GitHub repository for this site'
 

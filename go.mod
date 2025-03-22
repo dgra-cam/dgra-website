@@ -1,4 +1,4 @@
-module github.com/dgra-cam/site-dgra-dev
+module github.com/dgra-cam/dgra-website
 
 go 1.21.5
 

@@ -24,7 +24,7 @@ title: 'Contact Us'
   </form>
 </div>
 
-For suggestions about the website, you can also [create an Issue on GitHub](https://github.com/dgra-cam/site-dgra-dev/issues/new).
+For suggestions about the website, you can also [create an Issue on GitHub](https://github.com/dgra-cam/dgra-website/issues/new).
 {.fw-normal}
 
 <script>

@@ -41,8 +41,8 @@ Did you find a typo, or a missing piece of information? Do you have ideas for a
 new page or for a blog post? Please [open an Issue][issue], or—even
 better!—[create a Pull Request][pr].
 
-[issue]: https://github.com/dgra-cam/site-dgra-dev/issues/new
-[pr]: https://github.com/dgra-cam/site-dgra-dev/compare
+[issue]: https://github.com/dgra-cam/dgra-website/issues/new
+[pr]: https://github.com/dgra-cam/dgra-website/compare
 
 ## License
 
