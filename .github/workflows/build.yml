@@ -37,6 +37,8 @@ jobs:
           make vendor
           if ! git diff --quiet ; then
               echo '::error::Dependencies have changed'
+              git diff
+              echo ''
               echo 'Please run `make vendor` locally and commit the changes.'
               exit 1
           fi
