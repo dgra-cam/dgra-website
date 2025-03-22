@@ -24,9 +24,7 @@ jobs:
 
       - name: Install dependencies
         run: |
-          npm install -D autoprefixer
-          npm install -D postcss-cli
-          npm install -D postcss
+          npm clean-install
 
       - name: Build website
         run: |
