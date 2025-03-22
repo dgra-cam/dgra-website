@@ -1,4 +1,9 @@
+<img src=".github/dgra-green.svg" width="300" alt="DGRA logo">
+
 # DGRA website
+
+[![License: CC BY-NC 4.0](https://img.shields.io/badge/License-CC_BY--NC_4.0-lightgrey.svg)](https://creativecommons.org/licenses/by-nc/4.0/)
+[![Netlify Status](https://api.netlify.com/api/v1/badges/e818937d-c355-4e6c-9fc9-f2214f766831/deploy-status)](https://app.netlify.com/sites/dgra/deploys)
 
 ## Run the website
 
