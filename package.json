@@ -1,0 +1,25 @@
+{
+  "name": "dgra",
+  "version": "0.1.0",
+  "description": "Darwin Green Residents' Association website",
+  "main": "none.js",
+  "scripts": {
+    "start": "hugo server",
+    "build": "hugo build"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dgra-cam/dgra-website.git"
+  },
+  "author": "DGRA",
+  "license": "CC-BY-NC-4.0",
+  "bugs": {
+    "url": "https://github.com/dgra-cam/dgra-website/issues"
+  },
+  "homepage": "https://github.com/dgra-cam/dgra-website#readme",
+  "devDependencies": {
+    "autoprefixer": "^10.4.21",
+    "postcss": "^8.5.3",
+    "postcss-cli": "^11.0.1"
+  }
+}
