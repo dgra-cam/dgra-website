@@ -3,7 +3,7 @@ title: 'DGRA'
 description: 'Darwin Green Residents’ Association'
 ---
 
-{{< blocks/cover title="Darwin Green Residents’ Association" image_anchor="bottom" color="dark" >}}
+{{< blocks/cover title="Darwin Green Residents’ Association" image_anchor="center" color="dark" >}}
 
 Championing local community, in Cambridge
 {.display-6}
