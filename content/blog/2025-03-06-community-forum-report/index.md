@@ -23,7 +23,7 @@ development. For the first time, this was a hybrid meeting, with both physical
 and remote attendees. Here are some notes collected from the meeting.
 
 _Please keep in mind that these are the notes from attendees. They may be
-incomplete, inaccurate, and were not validated from Barratt or Eddington
+incomplete, inaccurate, and were not validated by Barratt or Eddington
 representatives._
 
 ## Preliminary Observations
