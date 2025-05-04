@@ -60,7 +60,7 @@ menu:
     - name: Home
       url: '/'
       weight: 1
-    - name: Events
+    - name: Blog
       url: '/blog/'
       weight: 10
     - name: Knowledge Base

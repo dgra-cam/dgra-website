@@ -6,6 +6,7 @@
 {{ end -}}
 
 <div class="td-blog-posts">
+  <p class="fst-italic">If you have events to promote or stories to tell about Darwin Green, please <a href="/contact/">reach out</a>.</p>
   {{ if .Pages -}}
     {{ $pag := .Paginate (( $.Scratch.Get "blog-pages").GroupByDate "2006" ) -}}
     {{ range $pag.PageGroups -}}
