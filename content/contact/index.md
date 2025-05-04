@@ -27,20 +27,4 @@ title: 'Contact Us'
 For suggestions about the website, you can also [create an Issue on GitHub](https://github.com/dgra-cam/dgra-website/issues/new).
 {.fw-normal}
 
-<script>
-    const form = document.querySelector('form');
-    form.addEventListener('submit', async function (e) {
-        e.preventDefault();
-
-        const formData = new FormData(form);
-        const response = await fetch('https://fabform.io/f/Kwpw95t', {
-            method: 'POST',
-            body: formData,
-        });
-
-        // Handle the response as needed
-        console.log(response);
-    });
-</script>
-
 {{< /blocks/cover >}}
