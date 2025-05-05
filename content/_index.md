@@ -11,21 +11,25 @@ Championing local community, in Cambridge
 
 {{< blocks/section color="white" type="row align-items-center" >}}
 {{% blocks/twocolumns icon="fa-location-dot" title="We are here." %}}
-Darwin Green is a growing neighbourhood in the north-west of Cambridge with an
-active residents’ association. So far, we have been:
+**Darwin Green** is a growing neighbourhood in the north-west of **Cambridge**
+with a vibrant community and an active residents’ association. Here are some of
+the actions we do:
 
 <ul style="list-style-type: none; margin-left: 0; padding-left: 0;">
   <li>
-    <i class="fa-solid fa-check text-primary me-3"></i>Organising local events
+    <i class="fa-solid fa-check text-primary me-3"></i>Support and connect local residents
   </li>
   <li style="margin-top: 1ex;">
-    <i class="fa-solid fa-check text-primary me-3"></i>Gathering useful information for residents
+    <i class="fa-solid fa-check text-primary me-3"></i>Organise local events
   </li>
   <li style="margin-top: 1ex;">
-    <i class="fa-solid fa-check text-primary me-3"></i>Collaborating with adjacent areas
+    <i class="fa-solid fa-check text-primary me-3"></i>Campaign for better amenities and services
   </li>
   <li style="margin-top: 1ex;">
-    <i class="fa-solid fa-check text-primary me-3"></i>Campaigning for better pathways
+    <i class="fa-solid fa-check text-primary me-3"></i>Gather practical information for residents
+  </li>
+  <li style="margin-top: 1ex;">
+    <i class="fa-solid fa-check text-primary me-3"></i>Collaborate with adjacent areas
   </li>
 </ul>
 
