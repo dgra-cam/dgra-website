@@ -50,8 +50,8 @@ the city, she will be replaced by Julian. Sue keeps working with Darwin Green.
 
 ## Door-knocking retrospective
 
-- Door-knocking in Darwin Green, Franklin's Garden, Evolution Court
-- Franklin Garden haven't had any community event but had some Anti-Social
+- Door-knocking in Darwin Green, Franklin's Gardens, Evolution Court
+- Franklin Gardens haven't had any community event but had some Anti-Social
   Behaviour (ASB)
 - Most questions are on commercial units, charges, ...
 - No particular questions on “we need this or that”, so nothing obvious is

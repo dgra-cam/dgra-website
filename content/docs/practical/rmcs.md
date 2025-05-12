@@ -8,8 +8,10 @@ description: "RMCs operating in Darwin Green"
 _To be completed._
 {{% /pageinfo %}}
 
-RMCs operating in Darwin Green include:
+RMCs operating in Darwin Green and King's Court include:
 
 - Encore
 - FirstPort
 - L&Q
+- DGMC (Darwin Green Management Company)
+- SABRE

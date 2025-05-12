@@ -50,3 +50,53 @@ In the future, it should also include:
 [barratt-franklin]: https://www.barratthomes.co.uk/new-homes/dev-002587-franklin-gardens-at-darwin-green/
 [eddington]: https://eddington-cambridge.co.uk/
 [era]: https://www.eddingtonra.org/
+
+## Acronyms and Local Names
+
+Here are some acronyms or local names for locations in or around Darwin Green.
+Some of these names are not officially recognised.
+
+The Courtyard
+: The block between Galton Road and Patagonia Way
+
+CP
+: Central Park
+
+CR
+: Community Rooms
+
+DG
+: Darwin Green
+
+DGRA
+: Darwin Green Residents' Association
+
+FG
+: Franklin Gardens, the development north-east to the Central Park
+
+The Greenway
+: The passage between the playground and Windsor Road
+
+HANDLE
+: The blocks on Lawrence Weaver Road and (for the last one) Randal Way:
+  **Ha**wking, **N**ewton, **D**arwin, **Le**wis
+
+KC
+: King's Court, the blocks neighbour to Darwin Green, located around Burlton
+  Road, Yeoman Drive, and Lawrence Weaver Road
+
+LWR
+: Lawrence Weaver Road
+
+NIAB
+: National Institute of Agricultural Botany - the site off Lawrence Weaver Road
+  is no longer a NIAB site though, it has been sold for redevelopment
+
+The Plaza
+: The square on Galton Road between the Community Rooms and the Evolution Court
+  buildings (it seems the Plaza is officially part of Evolution Court)
+
+SO
+: (Barratt's) Sales Office, on Lawrence Weaver Road
+
+See also [the origins of names](../names/) in Darwin Green.

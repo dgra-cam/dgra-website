@@ -6,6 +6,8 @@ description: Darwin Green's community channels
 The residents, the users, and the friends of Darwin Green and its facilities
 form the Darwin Green community.
 
+## Online Presence
+
 You found **the website for the Resident's association** already,
 congratulations!
 
@@ -27,3 +29,27 @@ policy:
 
 [fb]: https://www.facebook.com/groups/dgplaza/
 [contact]: /contact/
+
+## Acronyms
+
+Here are some acronyms to understand what the community talks about:
+
+BDW
+: Barratt / David Wilson (now Barratt Redrow)
+
+BR
+: Barratt Redrow
+
+BSG
+: Buy/Sell/Gift chat group
+
+FN
+: Friendly Neighbours chat group
+
+RMC
+: [Resident Management Company](/docs/practical/rmcs/)
+
+See also the list of [acronyms and short names][map-names] for places in Darwin
+Green.
+
+[map-names]: /docs/lore/map/#acronyms-and-local-names
