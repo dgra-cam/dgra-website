@@ -14,8 +14,6 @@ markup:
       attribute:
         block: true
 
-enableRobotsTXT: true
-
 params:
   copyright: 'Darwin Green Residents’ Association'
 
