@@ -11,7 +11,7 @@ serve:
 	${DOCKER_RUN} \
 		-p ${PUBLISH_PORT}:1313 \
 		${HUGO_IMAGE}:${HUGO_VERSION} \
-		hugo server
+		hugo server --buildDrafts --buildExpired --buildFuture
 
 build:
 	${DOCKER_RUN} \
