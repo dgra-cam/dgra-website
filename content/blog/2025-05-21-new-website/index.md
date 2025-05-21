@@ -1,6 +1,6 @@
 ---
 date: 2025-05-21
-title: "A new website for Darwin Green Residents’ Association"
+title: "A New Website for Darwin Green Residents"
 linkTitle: "New website"
 description: "And it needs your stories!"
 author: Quentin
