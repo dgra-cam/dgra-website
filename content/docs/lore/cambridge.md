@@ -4,7 +4,7 @@ description: "Basic information about the city for new residents"
 ---
 
 {{% pageinfo color="info" %}}
-_To be completed._ (Does anyone have a welcome pack from the Council community team?)
+_To be completed._
 {{% /pageinfo %}}
 
 - https://en.wikipedia.org/wiki/Cambridge
@@ -13,3 +13,6 @@ _To be completed._ (Does anyone have a welcome pack from the Council community t
 - https://www.visitcambridge.org/whats-on/
 - https://www.museums.cam.ac.uk/
 - https://www.reddit.com/r/cambridge/wiki/index/
+
+See also the section about
+[living in Darwin Green / Cambridge](/docs/practical/life/).
