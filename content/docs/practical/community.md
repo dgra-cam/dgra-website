@@ -1,6 +1,7 @@
 ---
 title: Community
 description: Darwin Green's community channels
+weight: 10
 ---
 
 The residents, the users, and the friends of Darwin Green and its facilities

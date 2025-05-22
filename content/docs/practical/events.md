@@ -2,6 +2,7 @@
 title: "Recurring Events in Darwin Green"
 linkTitle: "Recurring events"
 description: "Events taking place in Darwin Green at recurring dates"
+weight: 20
 ---
 
 ## Food Trucks

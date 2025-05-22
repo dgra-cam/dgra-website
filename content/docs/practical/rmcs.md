@@ -2,6 +2,7 @@
 title: "Resident Management Companies"
 linkTitle: "RMCs"
 description: "RMCs operating in Darwin Green"
+weight: 50
 ---
 
 {{% pageinfo color="info" %}}
