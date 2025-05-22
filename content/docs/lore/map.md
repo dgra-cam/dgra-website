@@ -34,8 +34,9 @@ In the future, it should also include:
 
 ## Surrounding Developments
 
-- The development between Lawrence Weaver Road and Whitehouse Lane is known as
-  **King's Court** and its residents are part of the Darwin Green community.
+- **King's Court** is how we call the development between Lawrence Weaver Road
+  and Whitehouse Lane, and its residents are part of the Darwin Green
+  community.
 
 - **Franklin Gardens** is a new development located north-east to the Central
   Park, sometimes considered as part of Darwin Green (see [Barratt's
@@ -47,9 +48,14 @@ In the future, it should also include:
   [Eddington's website][eddington], or to the site of the [Eddington Residents
   Association][era].
 
+- **Windsor Road** connects to the south-east portion of Darwin Green via the
+  Green Way, and leads to Histon Road. There is a [Windsor Road Residents
+  Association][windsor].
+
 [barratt-franklin]: https://www.barratthomes.co.uk/new-homes/dev-002587-franklin-gardens-at-darwin-green/
 [eddington]: https://eddington-cambridge.co.uk/
 [era]: https://www.eddingtonra.org/
+[windsor]: mailto:windsorroad.residentsassociation@yahoo.co.uk
 
 ## Acronyms and Local Names
 
