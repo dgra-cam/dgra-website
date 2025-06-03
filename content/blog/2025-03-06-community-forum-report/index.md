@@ -1,7 +1,7 @@
 ---
 date: 2025-03-06
 title: "Community Forum (6th March 2025)"
-linkTitle: "Community forum notes"
+linkTitle: "Community Forum (March '25)"
 description: "Hybrid meetings; surely something to do with Darwinism"
 author: Quentin
 resources:
