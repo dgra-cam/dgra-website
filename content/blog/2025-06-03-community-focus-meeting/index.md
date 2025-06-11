@@ -55,7 +55,8 @@ incomplete, inaccurate._
 ## Summer events
 
 - Holiday lunch (for children)
-    - There will be only one holiday lunch after all, on **31th July**.
+    - There will be only one holiday lunch after all, on **Wednesday 30th
+      July**, from 12 pm.
     - It will be followed by a play session on the Plaza, supported by Barratt:
       the Community team got permission from owners (Evolution Court) to close
       the road around the Plaza.
