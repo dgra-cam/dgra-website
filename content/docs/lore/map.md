@@ -105,4 +105,8 @@ The Plaza
 SO
 : (Barratt's) Sales Office, on Lawrence Weaver Road
 
+The Square
+: Woodlark Road, Hoadly Road, Eachard Road, and Sherlock Road, a group of
+  streets south from Darwin Green.
+
 See also [the origins of names](../names/) in Darwin Green.
