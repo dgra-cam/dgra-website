@@ -105,7 +105,8 @@ Send your questions to: <placeplanningreferrals0-19@cambridgeshire.gov.uk>
   the school in time for September 2028. They asked Barratt to not use
   government's reorganisations as a motive for further delays; Barratt replied
   they are eager to get on site and start the work as soon as possible.
-- The Catchment area for Darwin Green schools has not been fixed yet.
+- The Catchment area for the future Darwin Green schools has not been fixed
+  yet.
 - Regarding the in-person meetings with Year 6 parents: This can be done with
   parents from other schools if there are concerns. Send your request to the
   email address previously mentioned.
@@ -376,5 +377,5 @@ For community grants and funding, see also:
 
 Barratt has mentioned a event to celebrate the opening of the pitches and
 Sports Pavilion, but we're already mid-June and the target is end of July,
-there's a concern that it will be finalised and announced to late to draw
+there's a concern that it will be finalised and announced too late to draw
 attendees. Sue will chat with Barratt to come up with a date and advertise it.
