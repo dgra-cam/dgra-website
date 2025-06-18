@@ -45,6 +45,12 @@ Falmouth Close
 
 : See _Falmouth Avenue_.
 
+Fitzroy Crescent
+
+: Vice-Admiral [Robert FitzRoy] (1805–1865) was an English officer of the Royal
+Navy, politician and scientist who was captain of HMS Beagle during Charles
+Darwin's famous voyage.
+
 Galton Road
 
 : [Francis Galton] (1822-1911) was Darwin's half-cousin. He studied mathematics
@@ -143,6 +149,7 @@ species of finch.
 [John Stevens Henslow]: https://en.wikipedia.org/wiki/John_Stevens_Henslow
 [Patagonia]: https://en.wikipedia.org/wiki/Patagonia
 [Randal Keynes]: https://en.wikipedia.org/wiki/Randal_Keynes
+[Robert FitzRoy]: https://en.wikipedia.org/wiki/Robert_FitzRoy
 [Shrewsbury]: https://en.wikipedia.org/wiki/Shrewsbury
 [Sir Horace Darwin]: https://en.wikipedia.org/wiki/Horace_Darwin
 [Sir Isaac Newton]: https://en.wikipedia.org/wiki/Isaac_Newton
