@@ -38,6 +38,10 @@ params:
   links:
     # End user relevant links. These will show up on left side of footer and in the community page if you have one.
     user:
+    - name: 'RSS feed'
+      url: '/blog/index.xml'
+      icon: 'fas fa-rss'
+      desc: 'RSS feed for blog posts on this website'
     - name: 'Darwin Green Construction Updates'
       url: 'https://darwingreenconstruction.co.uk/latest-updates/'
       icon: 'fa fa-link'
