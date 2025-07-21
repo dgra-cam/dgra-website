@@ -46,16 +46,20 @@ params:
       url: 'https://darwingreenconstruction.co.uk/latest-updates/'
       icon: 'fa fa-link'
       desc: "Builder's updates website"
-    - name: 'Facebook'
+    - name: 'Darwin Green PLAZA on Facebook'
       url: 'https://www.facebook.com/groups/dgplaza/'
       icon: 'fab fa-facebook'
       desc: 'Darwin Green PLAZA community group on Facebook'
     # Developer relevant links. These will show up on right side of footer and in the community page if you have one.
     developer:
-    - name: 'GitHub'
+    - name: 'GitHub repository'
       url: 'https://github.com/dgra-cam/dgra-website'
       icon: 'fab fa-github'
       desc: 'GitHub repository for this site'
+    - name: 'Analytics dashboard'
+      url: 'https://dashboard.simpleanalytics.com/dgra.cam'
+      icon: 'fa fa-chart-line'
+      desc: 'Simple Analytics public dashboard for this site'
 
 menu:
   main:
