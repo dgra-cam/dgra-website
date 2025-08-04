@@ -27,6 +27,10 @@ other loose parts play. There will be free drinks for children.
 The event will also include a toy swap, where children can bring a toy to give
 away, and take another toy in exchange.
 
+Note that to ensure a better and safer play session, **the section of Galton
+Road in front of the Community Rooms will be closed to traffic for the duration
+of the event**.
+
 Please keep in mind that all children attending must always be under the
 supervision of a responsible adult.
 
