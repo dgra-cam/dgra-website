@@ -39,21 +39,24 @@ with the trees and the pond will be open. We'll find out on the day!
 
 ## What will happen?
 
-Bring your picnic blanket and enjoy the park with friends, family, and neighbours. Highlights include:
+Bring your picnic blanket and enjoy the park with friends, family, and
+neighbours. Highlights include:
 
 - Ribbon cutting by the Mayor **at 1:15 pm**
-- Free ice cream (although with limited availability), offered by the
-  developper (Barratt Redrow)
-- Refreshments and food for purchase. Manna Seoul's foodtruck is expected, and
-  possibly others
+- Free ice cream (although with limited availability) from [Scoops of
+  Cambridge] dessert truck, offered by the developer (Barratt Redrow)
+- Refreshments and food for purchase. [Manna Seoul]'s foodtruck is expected,
+  and possibly others
 - Sports coaching sessions **from 1 pm to 3 pm**, including football and
   tennis
+- A live music band, [Soul Front], will perform
+- A free bouncy castle will be available for children
 - Free face painting
-
-Additional activities are yet to be confirmed:
-
-- A live band is likely to perform
-- A free bouncy castle for children may be installed
-- Other stalls (commercial or community) may be present
+- Other stalls (commercial or community) may be present, but are still to be
+  confirmed.
 
 Come along to explore and celebrate the opening of Darwin Green's Central Park!
+
+[Scoops of Cambridge]: https://sites.google.com/view/scoopsofcambridge
+[Manna Seoul]: https://mannaseoulcambridge.co.uk/
+[Soul Front]: https://www.bandsforhire.net/acoustic-music/item/47-soul-front
