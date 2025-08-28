@@ -14,6 +14,11 @@ summary: >
     event on 23rd August to celebrate!
 ---
 
+**[Edited 2025-08-28]** The Central Park is now open, see [the article from the
+Cambridge Independent](camb-inde) for coverage of the opening.
+
+---
+
 At the heart of the Darwin Green development, the Central Park is a space that
 residents have long been waiting to explore. At last, it will officially open
 on **Saturday, 23rd August 2025**, and we're celebrating with a launch event!
@@ -29,13 +34,11 @@ sports pavilion.
 
 ## What will open?
 
-The tennis courts, football and cricket pitches will open.
+The tennis courts, football and cricket pitches will open. The north-east
+"park" area with the trees and the pond will be open, too.
 
 The sports pavilion will not open just yet, although its restrooms will be
 accessible during the launch event.
-
-It is unclear to the author of this post whether the north-east "park" area
-with the trees and the pond will be open. We'll find out on the day!
 
 ## What will happen?
 
@@ -57,6 +60,7 @@ neighbours. Highlights include:
 
 Come along to explore and celebrate the opening of Darwin Green's Central Park!
 
+[camb-inde]: https://www.cambridgeindependent.co.uk/news/15-acre-central-park-at-darwin-green-development-officially-9431392/
 [Scoops of Cambridge]: https://sites.google.com/view/scoopsofcambridge
 [Manna Seoul]: https://mannaseoulcambridge.co.uk/
 [Soul Front]: https://www.bandsforhire.net/acoustic-music/item/47-soul-front
