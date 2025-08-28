@@ -48,7 +48,7 @@ FN
 : Friendly Neighbours chat group
 
 RMC
-: [Resident Management Company](/docs/practical/rmcs/)
+: Resident Management Company
 
 See also the list of [acronyms and short names][map-names] for places in Darwin
 Green.
