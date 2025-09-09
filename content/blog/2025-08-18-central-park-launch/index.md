@@ -15,7 +15,7 @@ summary: >
 ---
 
 **[Edited 2025-08-28]** The Central Park is now open, see [the article from the
-Cambridge Independent](camb-inde) for coverage of the opening.
+Cambridge Independent][camb-inde] for coverage of the opening.
 
 ---
 
