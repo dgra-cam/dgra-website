@@ -9,7 +9,7 @@ weight: 20
 
 ### Pizza Mondo
 
-Pizza Mondo comes twice a month to Darwin Green, near the Community Rooms, on **the second and the last Tuesdays**, **from 5:00 p.m. to 8:00 p.m.**
+Pizza Mondo comes twice a month to Darwin Green, near the Community Rooms, on **the second and the last Tuesdays**, **from 5:00 pm to 8:00 pm**
 
 Find more information and order from [Pizza Mondo's website][pmondo].
 
@@ -17,7 +17,7 @@ Find more information and order from [Pizza Mondo's website][pmondo].
 
 ## Mobile Library
 
-The mobile library truck comes near the Darwin Green Community Rooms **every third Monday in the month**, **from 3:00 p.m. to 4:30 p.m.**
+The mobile library truck comes near the Darwin Green Community Rooms **every third Monday in the month**, **from 3:00 pm to 4:30 pm**
 
 Find more information on the [Cambridgeshire County Council website][cscc].
 
@@ -25,7 +25,7 @@ Find more information on the [Cambridgeshire County Council website][cscc].
 
 ## Tea & Coffee
 
-There is a free tea and coffee drop-in at the Darwin Green Community Rooms, **every Wednesday from 9:00 a.m. to 12:30 p.m.**
+There is a free tea and coffee drop-in at the Darwin Green Community Rooms, **every Wednesday from 9:00 am to 12:30 pm**
 
 Find more information on the [Cambridge City Council website][ccc].
 
