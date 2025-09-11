@@ -17,6 +17,11 @@ summary: >
 Come to the Community Rooms to work and meet your neighbours
 {{% /imgproc %}}
 
+{{% pageinfo color="info" %}}
+**[Edited 2025-09-11]** Opening time and access conditions have changed, see
+[the relevant page](/docs/practical/workspace/) for details.
+{{% /pageinfo %}}
+
 The Community Rooms are now open as a weekly drop-in workspace for anyone
 willing to work in a quiet environment. Just drop-in, get a seat and a table,
 connect to the WiFi network, and enjoy a cup of tea or coffee, all for free

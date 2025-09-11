@@ -2,7 +2,7 @@
 title: "Darwin Green Residents’ Association (DGRA)"
 linkTitle: "DGRA"
 description: "Learn more about the association"
-weight: 40
+weight: 50
 ---
 
 {{% pageinfo color="info" %}}

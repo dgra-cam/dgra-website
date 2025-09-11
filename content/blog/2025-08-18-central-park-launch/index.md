@@ -14,8 +14,10 @@ summary: >
     event on 23rd August to celebrate!
 ---
 
+{{% pageinfo color="info" %}}
 **[Edited 2025-08-28]** The Central Park is now open, see [the article from the
 Cambridge Independent][camb-inde] for coverage of the opening.
+{{% /pageinfo %}}
 
 ---
 
