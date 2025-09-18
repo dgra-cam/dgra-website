@@ -44,6 +44,10 @@ BR
 BSG
 : Buy/Sell/Gift chat group
 
+DGMC
+: Darwin Green Management Company, a RMC managed by residents and taking care
+  of the [HANDLE][map-names] blocks as well as Barratt's sales office.
+
 FN
 : Friendly Neighbours chat group
 

@@ -20,10 +20,10 @@ construction, defined by the builders. For more information, refer to
 
 ## Amenities
 
-The Local Centre of Darwin Green includes:
+The **Local Centre** of Darwin Green includes:
 
-- The Plaza
-- The Darwin Green Community Centre
+- **The Plaza**
+- The Darwin Green **Community Centre**
 
 In the future, it should also include:
 
@@ -31,6 +31,15 @@ In the future, it should also include:
 - A library
 - An NHS Centre
 - A supermarket (unconfirmed yet)
+
+The **Central Park** is a great area for a walk, or to do some exercise. It
+includes:
+
+- A playground area for children
+- A basketball/football pitch (asphalt)
+- Football/cricket pitches (grass)
+- Tennis courts, freely accessible
+- The **Sports Pavilion**
 
 ## Surrounding Developments
 
@@ -90,6 +99,10 @@ HANDLE
 KC
 : King's Court, the blocks neighbour to Darwin Green, located around Burlton
   Road, Yeoman Drive, and Lawrence Weaver Road
+
+The Livies
+: At the south corner of Darwin Green, The Livies Pavilion is to be restored
+  and converted into a Kinder Cafe
 
 LWR
 : Lawrence Weaver Road
