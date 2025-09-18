@@ -7,13 +7,36 @@ weight: 20
 
 ## Food Trucks
 
+The food trucs listed in this section regularly come to sell food on the Plaza.
+You can also check the calendar on the [front page](/) of this website to see
+who's coming next!
+
+### Manna Seoul
+
+Manna Seoul foodtruck comes on **the first Thursday** of the month, **from 5:00
+pm to 8:00 pm**. They sell Korean corn-dogs, fried chicken, and more. Find all
+the details on [Manna Seoul's website][mannas].
+
+[mannas]: https://mannaseoulcambridge.co.uk/
+
 ### Pizza Mondo
 
-Pizza Mondo comes twice a month to Darwin Green, near the Community Rooms, on **the second and the last Tuesdays**, **from 5:00 pm to 8:00 pm**
+Pizza Mondo comes twice a month to Darwin Green, near the Community Rooms, on
+**the second and the fourth Thursdays**, **from 5:00 pm to 8:00 pm**. They do,
+well, pizzas.
 
 Find more information and order from [Pizza Mondo's website][pmondo].
 
 [pmondo]: https://order.pizza-mondo.co.uk/
+
+### Pimp My Fish
+
+Pimp My Fish comes **every third Thursday** of the month, **from 5:00 pm to
+8:00 pm**, to sell fish & chips, but also tacos, burgers, and more.
+
+You can find information and order online from [Pimp My Fish's website][pmp].
+
+[pmp]: https://www.pimp-my-fish.co.uk/
 
 ## Mobile Library
 
