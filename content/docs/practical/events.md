@@ -38,6 +38,15 @@ You can find information and order online from [Pimp My Fish's website][pmp].
 
 [pmp]: https://www.pimp-my-fish.co.uk/
 
+### HitWrap
+
+HitWrap comes some Thursdays (tell us if you have more details!) from 5:00 pm
+to 8:00 pm to offer Hong-Kong-style noodles and wraps.
+
+Check out their menu on [HitWrap's website][hitwrap].
+
+[hitwrap]: https://order.storekit.com/hitwrap-stevenage/
+
 ## Mobile Library
 
 The mobile library truck comes near the Darwin Green Community Rooms **every third Monday in the month**, **from 3:00 pm to 4:30 pm**
