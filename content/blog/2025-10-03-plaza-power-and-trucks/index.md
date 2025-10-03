@@ -8,7 +8,7 @@ resources:
   - src: "**power*.jpg"
     params:
       byline: >
-        Photo: Manna Seoul's food truck on Darwin Green's Plaza, powered into
+        Photo: Manna Seoul's food truck on Darwin Green's Plaza, plugged into
         the new socket, with a large lightning emoji added on the top.
 summary: >
     Food trucks on the Plaza now benefit from community electricity, bringing
@@ -46,13 +46,13 @@ The food truck schedule at Darwin Green Plaza has expanded significantly.
     <img src="pizzamondo.jpg" alt="Pizza Mondo's truck and team" />
   {{< /card >}}
   {{< card header="Manna Seoul" >}}
-    <img src="mannaseoul.jpg" alt="Mana Seoul's truck and team" />
+    <img src="mannaseoul.jpg" alt="Manna Seoul's truck and team" />
   {{< /card >}}
 {{< /cardpane >}}
 
 {{< cardpane >}}
   {{< card header="Pimp My Fish" >}}
-    <img src="pimpmyfish.jpg" alt="Pimp My Fish's truck getting installed" />
+    <img src="pimpmyfish.jpg" alt="Pimp My Fish's truck being set up" />
   {{< /card >}}
   {{< card header="HitWrap" >}}
     <img src="hitwrap.jpg" alt="HitWrap's truck" />
@@ -80,7 +80,7 @@ can expect to see:
 {{< /cardpane >}}
 
 
-Maybe more will come in the future? Check the [calendar on the front page](/)
+More may join in the future. Check the [calendar on the front page](/)
 or the [recurring events page](/docs/practical/events/) to see who's coming
 next. You're sure to find something to your taste!
 
@@ -91,13 +91,13 @@ next. You're sure to find something to your taste!
 
 ## An exciting Plaza: Grabbing power
 
-Community power has been a request from Darwin Green residents for while. At
+Community power has been a request from Darwin Green residents for a while. At
 last, the installation took place late in September, and food trucks were quick
-to take advantage. But this is also an opportunity for more to come on the
+to take advantage. But this is also an opportunity for more to come to the
 Plaza. We've been hearing rumours about a Christmas tree coming for the end of
-the year. Lightning the Plaza during winter would be such a nice thing!
+the year. Lighting the Plaza during winter would be such a nice thing!
 
 _Many thanks to Darwin Green's residents and the local Councillors who pushed
-to have Community power installed, and to Barratt Redrow who delivered._
+to have community power installed, and to Barratt Redrow who delivered._
 
 _Thanks to George for all the photos in this post._
