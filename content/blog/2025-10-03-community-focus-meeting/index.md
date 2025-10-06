@@ -73,7 +73,7 @@ For Halloween:
 For Christmas:
 
 - There will be a partnership with [New Life Church][nlc] for Christmas carols
-  on a dedicated event, along with mulled wine and biscuits
+  on a dedicated event, along with (non-alcoholic) mulled wine and biscuits
 - There should be a Christmas tree on the Plaza. Note: the Council no longer
   helps fund the Christmas tree, it will be just Barratt providing support.
 
