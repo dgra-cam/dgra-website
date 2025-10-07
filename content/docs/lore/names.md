@@ -45,12 +45,6 @@ Falmouth Close
 
 : See _Falmouth Avenue_.
 
-Fitzroy Crescent
-
-: Vice-Admiral [Robert FitzRoy] (1805–1865) was an English officer of the Royal
-Navy, politician and scientist who was captain of HMS Beagle during Charles
-Darwin's famous voyage.
-
 Galton Road
 
 : [Francis Galton] (1822-1911) was Darwin's half-cousin. He studied mathematics
@@ -65,8 +59,8 @@ between the graves of Sir Isaac Newton and Charles Darwin.
 
 Henslow Crescent
 
-: [John Stevens Henslow] (1796-1861) was an Anglican priest, botanist and
-geologist, and Darwin's friend and academic advisor.
+: The Reverend [John Stevens Henslow] (1796-1861) was an Anglican priest,
+botanist and geologist, and Darwin's friend and academic advisor.
 
 Horace Walk
 
@@ -74,6 +68,14 @@ Horace Walk
 and manufacture of precision scientific instruments, and the ninth child of
 Charles Darwin. He was also a Fellow of Trinity College in Cambridge, and was
 elected Mayor of the city between 1896 and 1897.
+
+Jenyns Drive
+
+: An English clergyman, author, and naturalist, the Reverend [Leonard Jenyns]
+(1800-1893) was another scholar mentored by John Stevens Henslow. Jenyns was
+the original choice for the naturalist on the second voyage of HMS Beagle but
+turned down the offer due to ill health and parish duties. He and Henslow
+suggested Charles Darwin as his replacement.
 
 Lawrence Weaver Road
 
@@ -123,6 +125,13 @@ Randal Way
 great-great-grandson of Charles Darwin. Randal was born in Cambridge, and
 authored a book about the relationship between Darwin and his daughter Annie.
 
+Sedgwick Crescent
+
+: The Reverend [Adam Sedgwick] (1785-1873) was a British geologist and Anglican
+priest, one of the founders of modern geology. He guided Charles Darwin in his
+study of geology, but later opposed to Darwin's theory of evolution. The
+Sedgwick Museum in Cambridge also bears his name.
+
 Shrewsbury Road
 
 : [Shrewsbury] is a town in Shropshire, and the birth town to Charles Darwin.
@@ -141,15 +150,16 @@ passerine birds. During his voyage, Darwin collected a specimen that he
 described as a Galápagos "wren", but turned out to be another closely allied
 species of finch.
 
+[Adam Sedgwick]: https://en.wikipedia.org/wiki/Adam_Sedgwick
 [Alfred Russel Wallace]: https://en.wikipedia.org/wiki/Alfred_Russel_Wallace
 [Charles Darwin]: https://en.wikipedia.org/wiki/Charles_Darwin
 [Falmouth]: https://en.wikipedia.org/wiki/Falmouth,_Cornwall
 [Francis Galton]: https://en.wikipedia.org/wiki/Francis_Galton
 [Francis Macdonald Cornford]: https://en.wikipedia.org/wiki/F._M._Cornford
 [John Stevens Henslow]: https://en.wikipedia.org/wiki/John_Stevens_Henslow
+[Leonard Jenyns]: https://en.wikipedia.org/wiki/Leonard_Jenyns
 [Patagonia]: https://en.wikipedia.org/wiki/Patagonia
 [Randal Keynes]: https://en.wikipedia.org/wiki/Randal_Keynes
-[Robert FitzRoy]: https://en.wikipedia.org/wiki/Robert_FitzRoy
 [Shrewsbury]: https://en.wikipedia.org/wiki/Shrewsbury
 [Sir Horace Darwin]: https://en.wikipedia.org/wiki/Horace_Darwin
 [Sir Isaac Newton]: https://en.wikipedia.org/wiki/Isaac_Newton
