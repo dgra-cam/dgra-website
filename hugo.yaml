@@ -1,5 +1,5 @@
-baseURL: 'https://example.org/'
-languageCode: 'en-us'
+baseURL: 'https://dgra.cam/'
+languageCode: 'en-gb'
 title: DGRA
 module:
   proxy: "direct"
