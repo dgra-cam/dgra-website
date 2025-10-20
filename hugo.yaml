@@ -61,6 +61,11 @@ params:
       icon: 'fa fa-chart-line'
       desc: 'Simple Analytics public dashboard for this site'
 
+  taxonomy:
+    # Empty value to disable categories/tags cloud in right sidebar
+    taxonomyCloud:
+    -
+
 menu:
   main:
     - name: Home

@@ -1,5 +1,7 @@
 ---
 date: 2025-03-06
+categories: ["report"]
+tags: ["Community Forum"]
 title: "Community Forum (6th March 2025)"
 linkTitle: "Community Forum (March '25)"
 description: "Hybrid meetings; surely something to do with Darwinism"

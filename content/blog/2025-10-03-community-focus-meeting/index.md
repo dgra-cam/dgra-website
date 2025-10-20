@@ -1,5 +1,7 @@
 ---
 date: 2025-10-03
+categories: ["report"]
+tags: ["Community Focus"]
 title: "Community Focus Group (1st October 2025)"
 linkTitle: "Community Focus (October '25)"
 description: "A meeting to think about the future"

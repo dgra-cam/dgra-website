@@ -1,5 +1,7 @@
 ---
 date: 2025-04-08
+categories: ["report"]
+tags: ["Community Focus"]
 title: "Community Focus Group (8th April 2025)"
 linkTitle: "Community Focus (April '25)"
 description: "Evolving the community"

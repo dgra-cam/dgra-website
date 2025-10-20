@@ -1,5 +1,7 @@
 ---
 date: 2025-06-03
+categories: ["report"]
+tags: ["Community Focus"]
 title: "Community Focus Group (3rd June 2025)"
 linkTitle: "Community Focus (June '25)"
 description: "Wanted: New event ideas"

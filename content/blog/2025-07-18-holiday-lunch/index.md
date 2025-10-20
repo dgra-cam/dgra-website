@@ -1,5 +1,7 @@
 ---
 date: 2025-07-18
+categories: ["event"]
+tags: ["for children"]
 title: "Holiday Lunch: 30th July 2025"
 linkTitle: "Holiday Lunch (July '25)"
 description: "Enjoy a free holiday lunch with neighbour children"

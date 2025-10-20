@@ -1,5 +1,7 @@
 ---
 date: 2025-06-13
+categories: ["report"]
+tags: ["Community Forum"]
 title: "Community Forum (12th June 2025)"
 linkTitle: "Community Forum (June '25)"
 description: "Updates on Darwin Green 1, 2, 3; Eddington; Schools in Darwin Green"

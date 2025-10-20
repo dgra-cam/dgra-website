@@ -1,5 +1,7 @@
 ---
 date: 2025-08-04
+categories: ["event"]
+tags: ["for children"]
 title: "National Play Day: 6th August 2025"
 linkTitle: "Play Day (August '25)"
 description: "A time for Darwin Green's children to play together, exchange toys"

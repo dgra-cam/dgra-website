@@ -1,5 +1,7 @@
 ---
 date: 2025-10-20
+categories: ["report"]
+tags: ["Community Forum"]
 title: "Community Forum (16th October 2025)"
 linkTitle: "Community Forum (October '25)"
 description: "Updates on Darwin Green, Franklin Gardens, and Eddington"
