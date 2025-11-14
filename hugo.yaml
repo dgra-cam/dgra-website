@@ -1,5 +1,6 @@
 baseURL: 'https://dgra.cam/'
 languageCode: 'en-gb'
+timeZone: 'Europe/London'
 title: DGRA
 module:
   proxy: "direct"
