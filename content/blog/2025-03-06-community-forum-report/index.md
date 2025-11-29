@@ -24,6 +24,9 @@ Forum](https://cambridge.gov.uk/community-forums) held a meeting on 6th March
 development. For the first time, this was a hybrid meeting, with both physical
 and remote attendees. Here are some notes collected from the meeting.
 
+The video recording of the meeting is available [on
+YouTube](https://www.youtube.com/watch?v=9myEWh33xcM).
+
 _Please keep in mind that these are the notes from attendees. They may be
 incomplete, inaccurate, and were not validated by Barratt or Eddington
 representatives._

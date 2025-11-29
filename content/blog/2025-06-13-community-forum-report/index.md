@@ -27,6 +27,9 @@ and remote attendees. Here are some notes collected from the meeting.
 For previous updates, see [the report from the previous Community
 Forum](../2025-03-06-community-forum-report/).
 
+The video recording of the meeting is available [on
+YouTube](https://www.youtube.com/watch?v=VdQYCPAIfns).
+
 _Please keep in mind that these are the notes from attendees. They may be
 incomplete, inaccurate, and were not validated by Barratt or Eddington
 representatives._
