@@ -49,7 +49,7 @@ Check out their menu on [HitWrap's website][hitwrap].
 
 ## Mobile Library
 
-The mobile library truck comes near the Darwin Green Community Rooms **every third Monday in the month**, **from 3:00 pm to 4:30 pm**
+The mobile library truck comes near the Darwin Green Community Rooms **every third Monday of the month**, **from 3:00 pm to 4:30 pm**
 
 Find more information on the [Cambridgeshire County Council website][cscc].
 
