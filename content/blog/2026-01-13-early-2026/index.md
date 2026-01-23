@@ -93,7 +93,7 @@ Everyone hopes to see much more progress on the Darwin Green and Franklin
 Gardens developments in 2026! Some of the expectations include:
 
 - Opening of the retail shops on Darwin Green Plaza. Barratt said this would be
-  for March this year (although it had been previously announced for March
+  for spring this year (although it had been previously announced for March
   2025). Will the prediction hold true, this time?
 - Updates on the Sports Pavilion, the garden allotments, or the library
 - An online platform for reporting problems. Rumour has it that Barratt planned
