@@ -1,0 +1,29 @@
+// Navbar, except for the home page
+.td-navbar:not(.td-navbar-cover) {
+  // Themed background
+  --td-navbar-bg-color: #{$primary};
+
+  // Use dark-theme navbar colors so links are legible on the $primary
+  // background, even when the site is in light mode:
+  --bs-navbar-color: #{$navbar-dark-color};
+  --bs-navbar-hover-color: #{$navbar-dark-hover-color};
+  --bs-navbar-active-color: #{$navbar-dark-active-color};
+  --bs-navbar-brand-color: #{$navbar-dark-brand-color};
+  --bs-navbar-brand-hover-color: #{$navbar-dark-brand-hover-color};
+  color: var(--bs-navbar-color);
+
+  // Adjust search box
+  --td-gcs-secondary: #{$secondary};
+  .td-search:not(:focus-within) {
+    color: var(--bs-navbar-color);
+  }
+  .td-search__input:focus-within {
+    color: var(--bs-secondary-color);
+  }
+}
+
+// Update navbar logo color on all pages, in particular to avoid having a white
+// logo on a light background for the home page.
+.td-navbar .navbar-brand__logo svg path {
+  fill: var(--bs-navbar-hover-color) !important;
+}
