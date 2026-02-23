@@ -141,12 +141,7 @@ more information, see [our dedicated page](/docs/practical/workspace/).
 
 ### Rhyme Time
 
-**Wednesday, 9:30 am - 10:30 am** (term time only)
-
-Free Makaton Rhyme Time with Issy at the Community Rooms. This session combines
-singing and signing, followed by coffee and free play. A wonderful opportunity
-for young children to develop communication skills through music and sign
-language.
+_**Edit** As of end of February 2026, the Rhyme Time sessions have stopped._
 
 ### Community coffee
 

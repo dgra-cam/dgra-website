@@ -62,12 +62,3 @@ There is a free tea and coffee drop-in at the Darwin Green Community Rooms, **ev
 Find more information on the [Cambridge City Council website][ccc].
 
 [ccc]: https://www.cambridge.gov.uk/darwin-green-community-rooms
-
-## Rhyme Time
-
-A Makaton Rhyme Time for children takes place **every Wednesday during term time from 9:30 am to 10:30 am**, at the Darwin Green Community Rooms. No Rhyme Time outside of term time. The session contains two parts:
-
-- 9:30 to 10:00 am: singing and signing
-- 10:00 to 10:30 am: coffee and free play
-
-It is free to attend.
