@@ -2,7 +2,7 @@
 title: "Bins and Recycling"
 linkTitle: "Bins, recycling"
 description: "Information about bins, recycling, and rubbish"
-weight: 110
+weight: 120
 ---
 
 ### Bins and recycling

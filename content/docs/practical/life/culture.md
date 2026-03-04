@@ -2,7 +2,7 @@
 title: "Arts and Culture"
 linkTitle: "Culture"
 description: "What to see, what to experience in Cambridge"
-weight: 90
+weight: 100
 ---
 
 Cambridge City Council plays a major role in supporting the development of art

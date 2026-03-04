@@ -2,7 +2,7 @@
 title: "Garden Allotments"
 linkTitle: "Allotments"
 description: "Rent a garden corner and grow your vegs"
-weight: 100
+weight: 110
 ---
 
 ## Garden allotments in Cambridge
