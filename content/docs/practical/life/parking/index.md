@@ -28,13 +28,20 @@ enforced and people parking on forbidden areas may get a fine.
 
 ### Unsure
 
-- Some people have been using the parking space near Chapter House at the end
-  of Lawrence Weaver Road, although it's not clear whether this is permitted or
-  not.
+Some people have been using the parking space near Chapter House at the end of
+Lawrence Weaver Road, although it's not clear whether this is permitted or not.
 
 ### Not recommended
 
-- Some cars have been found parked on the big stones at the junction of Galton
-  Road and Patagonia Way. One can still observe black marks on some of the
-  stones. It is inadvisable to park a car there. Leave the big stones in peace:
-  they're dinosaur eggs, not parking spaces.
+Some cars have been found parked on the big stones at the junction of Galton
+Road and Patagonia Way. One can still observe black marks on some of the
+stones. It is inadvisable to park a car there. Leave 'em big stones in peace:
+they're dinosaur eggs, not parking spaces.
+
+{{% imgproc car-on-stone Resize "x600" %}}
+A white car on a big stone supposed to mark the limit between pavement and road
+at the intersection of Galton Road and Patagonia Way, the front wheels not
+touching the ground. Do not attempt to reproduce at home.
+{{% /imgproc %}}
+
+
