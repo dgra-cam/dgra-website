@@ -41,6 +41,10 @@ includes:
 - Tennis courts, freely accessible
 - The **Sports Pavilion**
 
+See also: [When do facilities open?][faq]
+
+[faq]: {{< ref "/docs/practical/faq/#when-do-facilities-open" >}}
+
 ## Surrounding Developments
 
 - **King's Court** is how we call the development between Lawrence Weaver Road
@@ -102,14 +106,14 @@ KC
 
 The Livies
 : At the south corner of Darwin Green, The Livies Pavilion is to be restored
-  and converted into a Kinder Cafe
+  and converted into a Kinder Cafe. See also [the Livies' website][livies].
 
 LWR
 : Lawrence Weaver Road
 
 NIAB
-: National Institute of Agricultural Botany - the site off Lawrence Weaver Road
-  is no longer a NIAB site though, it has been sold for redevelopment
+: National Institute of Agricultural Botany -- the site off Lawrence Weaver
+  Road is no longer a NIAB site though, it has been sold for redevelopment.
 
 The Plaza
 : The square on Galton Road between the Community Rooms and the Evolution Court
@@ -120,6 +124,8 @@ SO
 
 The Square
 : Woodlark Road, Hoadly Road, Eachard Road, and Sherlock Road, a group of
-  streets south from Darwin Green.
+  streets south from Darwin Green
 
 See also [the origins of names](../names/) in Darwin Green.
+
+[livies]: https://www.livies.co.uk/
