@@ -19,7 +19,7 @@ title: 'Contact Us'
       <textarea class="form-control" id="message" name="message" placeholder="How can we help?" rows="8" required></textarea>
     </div>
     <input type="hidden" name="redirect" value="https://web3forms.com/success">
-    <input type="hidden" name="access_key" value="9c94987f-5fe4-4a10-95b4-2acd13dc5158">
+    <input type="hidden" name="access_key" value="2bff46a8-5e06-4a8f-8bee-c2cb30a0f2a3">
     <button type="submit" class="btn btn-lg btn-secondary w-100 mb-4">
       Submit <i class="fa-solid fa-circle-right ms-2"></i>
     </button>
