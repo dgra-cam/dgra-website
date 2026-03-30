@@ -26,6 +26,10 @@ on the development. Here are some notes from the meeting.
 For previous updates, see [the report from the previous Community
 Forum](../2025-10-20-community-forum-report/).
 
+The video recording of the meeting is available [on
+YouTube](https://www.youtube.com/watch?v=23lXKEy5ivg) (although due to
+technical issues, this is only a partial recording).
+
 _Please keep in mind that these are the notes from attendees. They may be
 incomplete, inaccurate, and were not validated by Barratt or Eddington
 representatives._
