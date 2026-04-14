@@ -5,6 +5,14 @@ description: "A place for remote workers to work and meet their neighbours"
 weight: 40
 ---
 
+{{% pageinfo color="warning" %}}
+**The drop-in workspace will stop after April 2026** (last session: Monday 27
+April 2026).
+
+This is because very few people have been using it, and stopping it will permit
+using the Community Rooms for other events on Mondays.
+{{% /pageinfo %}}
+
 Darwin Green's Community Rooms are open to remote workers **every Monday, from
 8:30 am to 5:30 pm**. The space provides an alternative to working from home,
 and a chance to meet fellow workers working remotely as well.
