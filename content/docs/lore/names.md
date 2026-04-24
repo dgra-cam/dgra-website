@@ -11,6 +11,13 @@ naturalist, geologist, and biologist. But do you know where the names of the
 streets and buildings in the development come from? The builder company hasn't
 published the origin of the names, but here's our guess:
 
+Balfour Lane
+
+: [John Hutton Balfour] (1808-1884) was a distinguished Scottish botanist and
+Professor of Botany. During his studies at the University of Edinburgh, he
+joined the Plinian Society, a natural history club for students that Charles
+Darwin attended at the same period.
+
 Beagle Road
 
 : [HMS _Beagle_][beagle] was the ship that carried Darwin around the world,
@@ -22,6 +29,13 @@ Cornford Drive
 : In 1909, [Francis Macdonald Cornford] (1874-1943), a scholar from Trinity
 College in Cambridge, married the poet Frances Darwin, granddaughter of Charles
 Darwin.
+
+Crick Road
+
+: An English businessman, amateur geologist and palaeontologist, [Walter
+Drawbridge Crick] (1857-1903) wrote a survey of local foraminifera, and
+corresponded with Darwin who quoted his observations in his work. He was the
+grandfather of the molecular biologist [Francis Crick] (1916-2004).
 
 Darwin building
 
@@ -121,8 +135,8 @@ the way for Darwin's work.
 
 Randal Way
 
-: This may related to [Randal Keynes] (1948–2023), conservationist, author, and
-great-great-grandson of Charles Darwin. Randal was born in Cambridge, and
+: This may be related to [Randal Keynes] (1948–2023), conservationist, author,
+and great-great-grandson of Charles Darwin. Randal was born in Cambridge, and
 authored a book about the relationship between Darwin and his daughter Annie.
 
 Sedgwick Crescent
@@ -154,8 +168,10 @@ species of finch.
 [Alfred Russel Wallace]: https://en.wikipedia.org/wiki/Alfred_Russel_Wallace
 [Charles Darwin]: https://en.wikipedia.org/wiki/Charles_Darwin
 [Falmouth]: https://en.wikipedia.org/wiki/Falmouth,_Cornwall
+[Francis Crick]: https://en.wikipedia.org/wiki/Francis_Crick
 [Francis Galton]: https://en.wikipedia.org/wiki/Francis_Galton
 [Francis Macdonald Cornford]: https://en.wikipedia.org/wiki/F._M._Cornford
+[John Hutton Balfour]: https://en.wikipedia.org/wiki/John_Hutton_Balfour
 [John Stevens Henslow]: https://en.wikipedia.org/wiki/John_Stevens_Henslow
 [Leonard Jenyns]: https://en.wikipedia.org/wiki/Leonard_Jenyns
 [Patagonia]: https://en.wikipedia.org/wiki/Patagonia
@@ -174,3 +190,4 @@ species of finch.
 [lwww]: https://en.wikipedia.org/wiki/Lawrence_Weaver
 [patagonia-journal]: https://darwin-online.org.uk/content/frameset?pageseq=14&itemID=F14&viewtype=text
 [plymouth]: https://en.wikipedia.org/wiki/Plymouth
+[Walter Drawbridge Crick]: https://en.wikipedia.org/wiki/Walter_Drawbridge_Crick
