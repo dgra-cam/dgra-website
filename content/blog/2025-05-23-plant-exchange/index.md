@@ -2,7 +2,7 @@
 date: 2025-05-23
 categories: ["event"]
 title: "Darwin Green's Plant & Seed Exchange"
-linkTitle: "Plant & Seed Exchange"
+linkTitle: "Plant & Seed Exchange '25"
 description: "Swap plants and seeds on 31st May 2025"
 author: Quentin
 resources:
