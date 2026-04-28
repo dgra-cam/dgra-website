@@ -9,6 +9,20 @@ Championing local community, in Cambridge
 {.display-6}
 {{< /blocks/cover >}}
 
+{{< blocks/section color="secondary" type="container" >}}
+
+<div class="text-white text-center">
+  <h2>
+    Join us for our <b>Annual General Meeting</b> on <b>Tuesday 12 May</b> 2026, at <b>7 pm</b>
+  </h2>
+  <p class="fs-4">
+    at Darwin Green Community Rooms &bullet;
+    <a class="text-white" href="blog/2026-04-28-agm-announcement/">See more details</a>
+  </p>
+</div>
+
+{{< /blocks/section >}}
+
 {{< blocks/section color="white" type="row align-items-center" >}}
 {{% blocks/twocolumns icon="fa-location-dot" title="We are here." %}}
 **Darwin Green** is a growing neighbourhood in the north-west of **Cambridge**
