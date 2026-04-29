@@ -134,6 +134,8 @@ open.
 
 ### Drop-in workspace
 
+**[Edited 2026-04-29]** The drop-in workspace stopped after April 2026.
+
 **Monday, 8:30 am - 5:30 pm**
 
 Need a place to work? The Community Rooms offer free workspace on Mondays. For

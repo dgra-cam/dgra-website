@@ -18,8 +18,7 @@ Come to the Community Rooms to work and meet your neighbours
 {{% /imgproc %}}
 
 {{% pageinfo color="info" %}}
-**[Edited 2025-09-11]** Opening time and access conditions have changed, see
-[the relevant page](/docs/practical/workspace/) for details.
+**[Edited 2026-04-29]** The drop-in workspace stopped after April 2026.
 {{% /pageinfo %}}
 
 The Community Rooms are now open as a weekly drop-in workspace for anyone

@@ -2,7 +2,7 @@
 title: "Frequently Asked Questions"
 linkTitle: "FAQ"
 description: "Frequently Asked Questions from residents about Darwin Green"
-weight: 70
+weight: 60
 ---
 
 ### When do facilities open?

@@ -2,7 +2,7 @@
 title: "Contacts in Darwin Green"
 linkTitle: "Contact, reporting"
 description: "Where to report issues in the development"
-weight: 60
+weight: 50
 ---
 
 {{% pageinfo color="info" %}}
