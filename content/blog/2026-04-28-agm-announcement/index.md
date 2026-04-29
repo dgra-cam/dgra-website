@@ -38,8 +38,8 @@ Court**, and **Franklin Gardens**, but the meeting is open to everyone.
 - Welcome & introductions
 - Background and purpose of DGRA
 - Adoption of the new Constitution
-- Election of Officers and Committee
 - Membership registration
+- Election of Officers and Committee
 - Bank & finance
 - Key issues and priorities
 - Any other business
