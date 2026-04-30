@@ -75,6 +75,9 @@ nominating yourself for any position, please [get in touch](/contact).
 
 **You can find the proposed Constitution for the association here:
 [DGRA Constitution (provisional)](<DGRA Constitution (provisional).pdf>).**
+Note that formal membership and voting will be reserved for the residents of
+the area covered by the association. Of course, residents from neighbouring
+areas are more than welcome to join and engage with the community.
 
 In short: meet your neighbours and the DGRA team, and get involved to build a
 strong association that supports and represents residents. Bring a neighbour
