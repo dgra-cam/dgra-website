@@ -1,5 +1,6 @@
 ---
 date: 2026-04-30
+tags: ["for children"]
 title: "New Code Club"
 linkTitle: "Code Club"
 description: "Here comes a free, beginner-friendly Code Club for young people aged 7-14, launching 9 May 2026 in Darwin Green"

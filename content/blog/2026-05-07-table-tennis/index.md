@@ -1,5 +1,6 @@
 ---
 date: 2026-05-07
+tags: ["for children"]
 title: "Table Tennis in Darwin Green"
 linkTitle: "Table Tennis"
 description: "Ping-pong is coming to Darwin Green!"

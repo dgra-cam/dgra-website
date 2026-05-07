@@ -1,5 +1,6 @@
 ---
 date: 2026-03-03
+tags: ["for children"]
 title: "Building Skills and Belonging at Darwin Green"
 linkTitle: "LEGO & Board Games Clubs"
 description: "LEGO and board games to bring families together through creative play"
