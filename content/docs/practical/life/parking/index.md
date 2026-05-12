@@ -33,10 +33,10 @@ Lawrence Weaver Road, although it's not clear whether this is permitted or not.
 
 ### Not recommended
 
-Some cars have been found parked on the big stones at the junction of Galton
-Road and Patagonia Way. One can still observe black marks on some of the
-stones. It is inadvisable to park a car there. Leave 'em big stones in peace:
-they're dinosaur eggs, not parking spaces.
+Be careful at the junction of Galton Road and Patagonia Way: it seems that the
+big pebble stones (also known as "dinosaur eggs") on the side of the road are
+not visible enough, and multiple incidents involving cars over these stones
+have occurred. It is Not Recommended to park here.
 
 {{% imgproc car-on-stone Resize "x600" %}}
 A white car on a big stone supposed to mark the limit between pavement and road
