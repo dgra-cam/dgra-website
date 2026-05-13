@@ -72,8 +72,8 @@ like to get involved in the association. In particular, we'd love to have
 representatives from King's Court and Franklin Gardens. If you consider
 nominating yourself for any position, please [get in touch](/contact).
 
-**You can find the proposed Constitution for the association here:
-[DGRA Constitution (provisional)](<DGRA Constitution (provisional).pdf>).**
+You can find the Constitution for the association here:
+[DGRA Constitution](</DGRA Constitution.pdf>).
 Note that formal membership and voting will be reserved for the residents of
 the area covered by the association. Of course, residents from neighbouring
 areas are more than welcome to join and engage with the community.
