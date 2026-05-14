@@ -5,6 +5,7 @@ title: "Announcement: DGRA Annual General Meeting 2026"
 linkTitle: "AGM 2026 announcement"
 description: "Join us for the DGRA Annual General Meeting on 12 May 2026"
 author: Quentin
+hide_from_home: true
 resources:
 - src: "**agm*.png"
   params:

@@ -5,6 +5,7 @@ title: "New Code Club"
 linkTitle: "Code Club"
 description: "Here comes a free, beginner-friendly Code Club for young people aged 7-14, launching 9 May 2026 in Darwin Green"
 author: Faith
+hide_from_home: true
 resources:
 - src: "**coding-children*.jpg"
   params:
