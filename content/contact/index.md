@@ -15,6 +15,10 @@ title: 'Contact Us'
       <input class="form-control" type="email" id="email" name="email" placeholder="user@example.com">
     </div>
     <div class="mb-4">
+      <label class="form-label" for="subject">Subject</label>
+      <input class="form-control" type="text" id="subject" name="subject" placeholder="What do you want to talk about?">
+    </div>
+    <div class="mb-4">
       <label class="form-label" for="message">Message</label>
       <textarea class="form-control" id="message" name="message" placeholder="How can we help?" rows="8" required></textarea>
     </div>
