@@ -34,7 +34,7 @@ Submissions handled via [Web3Forms](https://web3forms.com/),
 see their [Privacy Policy](https://web3forms.com/privacy)
 {.small}
 
-For suggestions about the website, you can also [create an Issue on GitHub](https://github.com/dgra-cam/dgra-website/issues/new).
+For suggestions about the website, you can also [create an Issue on GitHub](https://github.com/dgra-cam/dgra-website/issues/new)
 {.fw-normal}
 
 {{< /blocks/cover >}}
