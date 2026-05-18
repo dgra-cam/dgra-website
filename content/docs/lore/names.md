@@ -191,3 +191,15 @@ species of finch.
 [patagonia-journal]: https://darwin-online.org.uk/content/frameset?pageseq=14&itemID=F14&viewtype=text
 [plymouth]: https://en.wikipedia.org/wiki/Plymouth
 [Walter Drawbridge Crick]: https://en.wikipedia.org/wiki/Walter_Drawbridge_Crick
+
+## Origin of the Names in Franklin Gardens
+
+{{% pageinfo color="info" %}}
+_To do_
+{{% /pageinfo %}}
+
+## Origin of the Names in King's Court
+
+{{% pageinfo color="info" %}}
+_To do_
+{{% /pageinfo %}}

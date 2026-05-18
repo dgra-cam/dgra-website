@@ -18,6 +18,29 @@ construction, defined by the builders. For more information, refer to
 [barratt]: https://www.barratthomes.co.uk/new-homes/dev002089-darwin-green/
 [dwh]: https://www.dwh.co.uk/new-homes/dev002495-dwh-at-darwin-green/
 
+
+## What is "Darwin Green"?
+
+The whole Darwin Green project contains several phases: Darwin Green 1, and
+Darwin Green 2 and 3. The first one, Darwin Green 1, contains the existing
+development, still in construction, within the Cambridge boundaries. Darwin
+Green 2 and 3 are expected to cover the area between Darwin Green 1 and the
+A14.
+
+Based on the context, "Darwin Green" may refer to:
+
+- The "Darwin Green" portion of Darwin Green 1, which is split into four
+  parcels BDW1, BDW2, BDW3, and BDW4, at different stages of construction.
+
+- The full Darwin Green 1 phase of the project, which includes the former
+  definition plus Franklin Gardens. Franklin Gardens' parcels are sometimes
+  referred to as BDW5 and BDW6.
+
+- The full Darwin Green development, made of Darwin Green 1, 2, and 3.
+
+Darwin Green Residents' Association covers Darwin Green 1 including Franklin
+Gardens, and the neighbour development known as King's Court.
+
 ## Amenities
 
 The **Local Centre** of Darwin Green includes:
@@ -53,7 +76,8 @@ See also: [When do facilities open?][faq]
 
 - **Franklin Gardens** is a new development located north-east to the Central
   Park, sometimes considered as part of Darwin Green (see [Barratt's
-  website][barratt-franklin]).
+  website][barratt-franklin]). The residents are part of the Darwin Green
+  community, too.
 
 - **Eddington** is a new development at the north-west of Cambridge, on the
   other side of Huntingdon Road, and managed by the University of Cambridge. It
@@ -63,7 +87,11 @@ See also: [When do facilities open?][faq]
 
 - **Windsor Road** connects to the south-east portion of Darwin Green via the
   Green Way, and leads to Histon Road. There is a [Windsor Road Residents
-  Association][windsor].
+  Association][windsor], also known as WIRE.
+
+- **Howes Green** is a proposed development, not approved yet, that would be
+  located around Howes Place (alongside Lawrence Weaver Road, opposite to
+  King's Court).
 
 [barratt-franklin]: https://www.barratthomes.co.uk/new-homes/dev-002587-franklin-gardens-at-darwin-green/
 [eddington]: https://eddington-cambridge.co.uk/
@@ -89,6 +117,9 @@ DG
 
 DGRA
 : Darwin Green Residents' Association
+
+ERA
+: Eddington Residents Association
 
 FG
 : Franklin Gardens, the development north-east to the Central Park
@@ -125,6 +156,9 @@ SO
 The Square
 : Woodlark Road, Hoadly Road, Eachard Road, and Sherlock Road, a group of
   streets south from Darwin Green
+
+WIRE
+: **Wi**ndsor Road **Re**sidents' Association
 
 See also [the origins of names](../names/) in Darwin Green.
 

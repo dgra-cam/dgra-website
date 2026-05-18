@@ -11,9 +11,10 @@ Championing local community, in Cambridge
 
 {{< blocks/section color="white" type="row align-items-center" >}}
 {{% blocks/twocolumns icon="fa-location-dot" title="We are here." %}}
-**Darwin Green** is a growing neighbourhood in the north-west of **Cambridge**
-with a vibrant community and an active residents’ association. Here are some of
-the actions we do:
+**Darwin Green**, with **King's Court** and **Franklin Gardens**, form a
+growing neighbourhood in the north-west of **Cambridge** with a vibrant
+community and an active residents’ association. Here are some of the actions we
+do:
 
 <ul style="list-style-type: none; margin-left: 0; padding-left: 0;">
   <li>
@@ -44,7 +45,7 @@ the actions we do:
 {{< /blocks/section >}}
 
 {{< blocks/latest color="primary" type="blog" >}}
-News from Darwin Green
+News from your neighbours
 {{< /blocks/latest >}}
 
 <!--

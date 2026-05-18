@@ -10,7 +10,8 @@ title: 'About DGRA'
 
   **Darwin Green Residents’ Association (DGRA)** is a non-profit, apolitical
   association that aims to represent and promote the interests of all residents
-  living in Darwin Green and adjacent areas.
+  living in **Darwin Green**, **King's Court**, and **Franklin Gardens** in
+  **Cambridge**, United Kingdom.
 
   We seek to improve conditions for the residents and offer events to develop
   the sense of community in the area.
