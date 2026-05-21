@@ -43,20 +43,44 @@ params:
       url: '/blog/index.xml'
       icon: 'fas fa-rss'
       desc: 'RSS feed for blog posts on this website'
+
     - name: 'Darwin Green Construction Updates'
       url: 'https://darwingreenconstruction.co.uk/latest-updates/'
       icon: 'fa fa-link'
       desc: "Builder's updates website"
-    - name: 'Darwin Green PLAZA on Facebook'
+
+    - name: 'Darwin Green PLAZA group on Facebook'
       url: 'https://www.facebook.com/groups/dgplaza/'
       icon: 'fab fa-facebook'
       desc: 'Darwin Green PLAZA community group on Facebook'
+
+    - name: 'DGRA Facebook page'
+      url: 'https://www.facebook.com/DarwinGreenCambridge/'
+      icon: 'fab fa-square-facebook'
+      desc: 'DGRA page on Facebook'
+
+    - name: 'DGRA on Instagram'
+      url: 'https://www.instagram.com/darwingreencambridge'
+      icon: 'fab fa-instagram'
+      desc: 'DGRA X/Twitter account'
+
+    - name: 'DGRA on X/Twitter'
+      url: 'https://x.com/darwingreencam'
+      icon: 'fab fa-x-twitter'
+      desc: 'DGRA X/Twitter account'
+
+    - name: 'WhatsApp community group (restricted access, contact us)'
+      url: '/docs/practical/community/#online-presence'
+      icon: 'fab fa-whatsapp'
+      desc: "Darwin Green's community chat group on WhatsApp (access is subject to admin approval)"
+
     # Developer relevant links. These will show up on right side of footer and in the community page if you have one.
     developer:
     - name: 'GitHub repository'
       url: 'https://github.com/dgra-cam/dgra-website'
       icon: 'fab fa-github'
       desc: 'GitHub repository for this site'
+
     - name: 'Analytics dashboard'
       url: 'https://dashboard.simpleanalytics.com/dgra.cam'
       icon: 'fa fa-chart-line'

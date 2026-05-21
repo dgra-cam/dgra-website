@@ -9,27 +9,39 @@ form the Darwin Green community.
 
 ## Online Presence
 
-You found **the website for the Resident's association** already,
-congratulations!
+You found **the website for the residents' association** already,
+congratulations! We're present on social media:
 
-Some of the community is also active on **[Facebook][fb]**.
+- [DGRA Facebook page][fb-dgra]
+- [DGRA Instagram account][ig-dgra]
+- [DGRA X/Twitter account][x-dgra]
+
+The community is also active on **[Facebook Darwin Green Plaza][fb-plaza]**
+group.
 
 There is also a **community chat on WhatsApp**, available to residents on
 invitation. If you live in Darwin Green and would like to request an
-invitation, you can [contact us][contact]. Here's a brief reminder of the chat
-policy:
+invitation, please [contact us][contact]. Here's a brief reminder of the
+chat's code of conduct:
 
-- Be polite and kind.
-- Do not send spam.
-- Use first names only.
-- Do not swear.
-- Never talk about politics.
+- Be polite and kind
+- Do not send spam
+- Use first names only
+- Do not swear; keep the chat family-friendly
+- Never (ever!) talk about politics
 - There is zero tolerance to aggression or anti-social behaviour in the chat or
-  in Darwin Green, and administrators enforce moderation.
-- The common language of the chat is English.
+  in Darwin Green, administrators may enforce moderation by removing users from
+  the chat
+- Stick to English, the common language of the chat
 
-[fb]: https://www.facebook.com/groups/dgplaza/
+There are several hundred members in the chat, so treat it as public space when
+you post information.
+
 [contact]: /contact/
+[fb-plaza]: https://www.facebook.com/groups/dgplaza/
+[fb-dgra]: https://www.facebook.com/DarwinGreenCambridge/
+[ig-dgra]: https://www.instagram.com/darwingreencambridge
+[x-dgra]: https://x.com/darwingreencam
 
 ## Acronyms
 
