@@ -34,7 +34,12 @@ Submissions handled via [Web3Forms](https://web3forms.com/),
 see their [Privacy Policy](https://web3forms.com/privacy)
 {.small}
 
-For suggestions about the website, you can also [create an Issue on GitHub](https://github.com/dgra-cam/dgra-website/issues/new)
+<img class="m-2" src="/logo.svg" width="150px" alt="Darwin Green Residents’ Association Logo" />
+
+If you prefer, you can email us directly at <hello@dgra.cam>
 {.fw-normal}
+
+For suggestions about this website, you can also
+<a class="fw-normal" href="https://github.com/dgra-cam/dgra-website/issues/new">create an Issue on GitHub</a>
 
 {{< /blocks/cover >}}
