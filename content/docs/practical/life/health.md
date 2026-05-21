@@ -41,9 +41,9 @@ register with a GP surgery][nhs-gp]. Here are some practices in the area:
 You can also use NHS's 111 for non-emergency situations to discuss your symptoms,
 and you can chose option 2 in a mental health situation.
 
-{{% pageinfo color="warning" %}}
-In case of life-threatening emergency, dial 999.
-{{% /pageinfo %}}
+{{% alert color="warning" %}}
+In case of life-threatening emergency, dial [999](tel:999).
+{{% /alert %}}
 
 ## Dentists
 
