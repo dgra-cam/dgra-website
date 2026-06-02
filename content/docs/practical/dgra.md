@@ -45,6 +45,7 @@ Here is the current DGRA Committee:
 - Quentin Monnet, Secretary
 - Faith Oyepeju
 - Joanna Gould
+- Melanie Hersey
 
 ## Contact
 
