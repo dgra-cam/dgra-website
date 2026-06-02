@@ -85,12 +85,12 @@ webpage][girton], and look at their [Community Newsletters][girton-news].
 ### Who are the Councillors?
 
 To find out who your local Cambridge City Councillors are, visit the [Cambridge
-City Council's website][camcitco] and search for "councillors".
+City Council's website][camcitco] and search for "Castle" ward.
 
 To find out who your local Cambridgeshire County Councillors are, visit [the
 Councillors webpage from the County Council's website][cambscc-councillors].
 
-[camcitco]: https://www.cambridge.gov.uk
+[camcitco]: https://democracy.cambridge.gov.uk/mgMemberIndex.aspx?FN=WARD&VW=LIST&PIC=0
 [cambscc-councillors]: https://www.cambridgeshire.gov.uk/council/county-councillors
 
 ### Voting in Castle ward
