@@ -9,7 +9,7 @@ weight: 50
 
 Report **any issue with the development or construction works** to **Barratt
 Redrow**, by emailing customer service at <southmidlands@newhomecare.co.uk> or
-by contacting the sales office at <darwin.green@bdwhomes.co.uk>.
+by contacting the sales office at <darwingreen2@barratthomes.co.uk>.
 
 Note that there is a **Planning Officer drop-in** at the Darwin Green Community
 Rooms every first Wednesday of the month (with occasional variations, check the
