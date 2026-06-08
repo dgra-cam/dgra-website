@@ -70,7 +70,7 @@ params:
       desc: 'DGRA X/Twitter account'
 
     - name: 'WhatsApp community group (restricted access, contact us)'
-      url: '/docs/practical/community/#online-presence'
+      url: '/docs/practical/community/#whatsapp'
       icon: 'fab fa-whatsapp'
       desc: "Darwin Green's community chat group on WhatsApp (access is subject to admin approval)"
 

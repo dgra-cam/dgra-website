@@ -46,4 +46,4 @@ on <hello@elenasy.org>.
 [clubs]: {{< ref "2026-03-03-lego-board-games-clubs" >}}
 [elenasy]: https://elenasy.org
 [Sport England]: https://www.sportengland.org/
-[whatsapp]: /docs/practical/community/#online-presence
+[whatsapp]: /docs/practical/community/#whatsapp
