@@ -19,12 +19,14 @@ congratulations! We're also present on social media:
 The community is also active on **Facebook group <i class='fa-brands
 fa-facebook'></i> [Darwin Green Plaza][fb-plaza]**.
 
-### WhatsApp
+### <i class='fa-brands fa-whatsapp'></i> WhatsApp
 
 There is also a **community chat** on **<i class='fa-brands fa-whatsapp'></i>
-WhatsApp**, available to residents on invitation. If you live in or around
-Darwin Green and would like to request an invitation, please **[contact
-us][contact]**. Here's a brief reminder of the chat's code of conduct:
+WhatsApp**, available to residents and neighbours, on invitation. If you live
+in or around Darwin Green and would like to request an invitation, please
+**[contact us][contact]**. Please mention that you agree to follow the code of
+conduct for the chat, and don't forget to specify the number you use for
+WhatsApp. Here's the code of conduct:
 
 > - Be polite and kind
 > - Do not send spam
