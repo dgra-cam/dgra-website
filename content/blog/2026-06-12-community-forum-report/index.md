@@ -44,19 +44,20 @@ and take care of strategic developments. South Cambridgeshire District Council
 has warned that the proposed urban development corporation risks sidelining
 local communities. For more details, see [_Greater Cambridge gets regeneration
 body to accelerate growth_ on gov.uk][devcorp-pr] or [the FAQ from the
-Cambridge Growth Company][cgc]. There is (or will be?) a mailing list to get
-updates about the new Development Corporation.
+Cambridge Growth Company][cgc] (CGC). CGC also has [a mailing list][cgc-ml],
+for those willing to get updates about the new Development Corporation.
 
 [devcorp]: https://en.wikipedia.org/wiki/Development_corporation#United_Kingdom
 [devcorp-pr]: https://www.gov.uk/government/news/greater-cambridge-gets-regeneration-body-to-accelerate-growth
 [cgc]: https://thecgc.org.uk/index.php?contentid=152
+[cgc-ml]: https://thecgc.org.uk/index.php?contentid=143
 
-## Library Update
+## Library update
 
 For the first time, we had a presentation from Andrew Stoter, from the Library
 Support Services at Cambridgeshire County Council! The core offer will include:
 
-- Book stock of 5,000–6,000 books
+- Book stock of 5,000 to 6,000 books
 - Free Wi-Fi
 - Study space
 - Static PCs, printing and scanning
@@ -206,7 +207,7 @@ which replanting of appropriate sizes will follow under a 5-year maintenance
 condition (5 years starting from planting). Areas where vegetation should have
 been planted but has not will also be identified.
 
-### Questions and answers
+### Q&A
 
 - **Potential primary school site**: No update. The education department needs
   to respond on what it wishes to do. There's the question of school
@@ -261,7 +262,7 @@ An open meeting will take place in the next months to discuss timescales and
 design aspirations for the schools; Barratt is working closely with the County
 Council. Community drop-in sessions are also planned in the coming months.
 
-### Questions and answers
+### Q&A
 
 - **Water supply**: The approval was granted by the Secretary of State
   following a public inquiry and was not considered a sufficient reason to hold
@@ -331,7 +332,7 @@ Application timeline for the Outline Planning Application:
   to understand concerns and will seek to maintain control over the use in
   future phases.
 
-## Community Update
+## Community update
 
 This section was presented by Sue Jackson, Community Development Officer from
 Cambridge City Council.
@@ -348,7 +349,7 @@ Cambridge City Council.
     served at noon)
   - Wednesday 26 August, 12 -- 2 pm: Darwin Green Community Rooms
 
-### Tennis Courts in Darwin Green
+### Tennis courts in Darwin Green
 
 No charge for tennis courts. However, once they have been transferred to the
 City Council, **a booking system** will be introduced (meaning lockable gates,
