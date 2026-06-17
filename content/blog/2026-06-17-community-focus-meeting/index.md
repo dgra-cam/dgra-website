@@ -179,10 +179,11 @@ members, and to establish a sense of ownership.
 
 #### Events
 
-The association needs to figure out events to run, and to bring more people to
-Central Park projects.
+Ideally, the association should figure out events to run, to bring more people
+to Central Park projects. Volunteers welcome, don't hesitate to [reach
+out](/contact/)!
 
 ---
 
 _DGRA would like to express their profound gratitude to Malcom for this
-introduction._
+introduction to how FoHRR works and what it does._
