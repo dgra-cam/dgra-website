@@ -3,7 +3,7 @@ HUGO_IMAGE_NAME ?= hugomods/hugo
 HUGO_VERSION ?= 0.155.3
 HUGO_IMAGE ?= ${HUGO_IMAGE_NAME}:${HUGO_VERSION}
 
-DOCKER_RUN ?= docker run --rm -u $${UID}:$${GID} -v $${PWD}:/src
+DOCKER_RUN ?= docker run --rm -u $$(id -u):$$(id -g) -v $${PWD}:/src
 PUBLISH_PORT ?= 1313
 
 default: serve
@@ -16,9 +16,7 @@ serve:
 
 install_postcss:
 	${DOCKER_RUN} ${HUGO_IMAGE} \
-		npm install --save-dev autoprefixer
-		npm install --save-dev postcss-cli
-		npm install --save-dev postcss
+		npm install --save-dev autoprefixer postcss-cli postcss
 
 build:
 	${DOCKER_RUN} \
@@ -38,16 +36,17 @@ tidy:
 update_docsy:
 	${DOCKER_RUN} \
 		${HUGO_IMAGE} \
-		hugo mod get -u github.com/google/docsy
+		sh -c 'hugo mod get -u github.com/google/docsy && hugo mod tidy && hugo mod vendor'
 
 pull:
 	docker pull ${HUGO_IMAGE}
 
 update_hugo:
-	@if [[ -z "$${VERSION}" ]]; then \
+	@if [ -z "$${VERSION}" ]; then \
 		echo "usage: make update_hugo VERSION=1.2.3"; \
 		exit 1; \
 	fi;
+	docker pull ${HUGO_IMAGE_NAME}:$${VERSION}
 	sed -i "s/^\( *HUGO_VERSION = \)\"\(.*\)\"/\1\"$${VERSION}\"/" netlify.toml
 	sed -i "s/^\( *HUGO_VERSION ?= \)\(.*\)/\1$${VERSION}/" Makefile
 
