@@ -16,7 +16,7 @@ title: 'About DGRA'
   We seek to improve conditions for the residents and offer events to develop
   the sense of community in the area.
 
-  <a href="/docs/practical/dgra/">Read more about DGRA</a>
+  <a href="/docs/association/dgra/">Read more about DGRA</a>
 
   <a class="btn btn-lg btn-secondary mt-4" href="/contact/">
     Contact us <i class="fa-solid fa-envelope ms-2"></i>

@@ -2,7 +2,7 @@
 title: "Darwin Green Residents’ Association (DGRA)"
 linkTitle: "DGRA"
 description: "Learn more about the association"
-weight: 40
+weight: 10
 ---
 
 ## DGRA
@@ -54,7 +54,7 @@ feedback, or to hear about your ideas!
 
 ## Meetings minutes
 
-- [Annual General Meeting - 12 May 2026]({{< ref "/blog/2026-05-13-agm-minutes/" >}})
+See [DGRA meetings]({{< ref "meetings" >}}).
 
 ## Logo
 
