@@ -9,7 +9,7 @@ weight: 20
 
 {{% alert color=info title="General Meeting" %}}
 
-**Tuesday 12 July 2026, 7 pm**, Darwin Green Community Rooms
+**Tuesday 14 July 2026, 7 pm**, Darwin Green Community Rooms
 
 Agenda:
 
