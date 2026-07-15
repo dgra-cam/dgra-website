@@ -2,7 +2,7 @@
 date: 2026-05-07
 tags: ["for children"]
 title: "Table Tennis in Darwin Green"
-linkTitle: "Table Tennis"
+linkTitle: "Table tennis"
 description: "Ping-pong is coming to Darwin Green!"
 author: Faith
 resources:

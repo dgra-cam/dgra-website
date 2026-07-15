@@ -3,7 +3,7 @@ date: 2026-02-11
 categories: ["event"]
 tags: ["for children"]
 title: "Holiday Lunch: 18th February 2026"
-linkTitle: "Holiday Lunch (February '26)"
+linkTitle: "Holiday lunch (February '26)"
 description: "Enjoy a free holiday lunch with neighbour children"
 author: Quentin
 resources:

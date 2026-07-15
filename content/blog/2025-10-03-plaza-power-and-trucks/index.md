@@ -1,7 +1,7 @@
 ---
 date: 2025-10-03
 title: "News from the Plaza: Power and Trucks"
-linkTitle: "Power and Trucks"
+linkTitle: "Power and trucks"
 description: "Community electricity on the Plaza brings more, quieter food trucks"
 author: Quentin
 resources:

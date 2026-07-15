@@ -2,7 +2,7 @@
 date: 2026-04-24
 categories: ["event"]
 title: "Darwin Green's Plant & Seed Exchange"
-linkTitle: "Plant & Seed Exchange '26"
+linkTitle: "Plant & seed exchange '26"
 description: "Swap plants and seeds on 17th May 2026 (2:30 to 4:30 pm)"
 author: Farah
 resources:

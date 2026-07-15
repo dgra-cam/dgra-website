@@ -1,7 +1,7 @@
 ---
 date: 2026-05-18
 title: "English Lessons for Mothers and Babies"
-linkTitle: "English Lessons"
+linkTitle: "English lessons"
 description: "Free, baby-friendly English classes for mothers in Darwin Green"
 author: Quentin
 resources:

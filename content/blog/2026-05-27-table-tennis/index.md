@@ -2,7 +2,7 @@
 date: 2026-05-27
 tags: ["for children"]
 title: "Table Tennis Launches"
-linkTitle: "Table Tennis Launch"
+linkTitle: "Table tennis launch"
 description: "Free weekly drop-in table tennis sessions have started on the Plaza"
 author: Faith
 resources:

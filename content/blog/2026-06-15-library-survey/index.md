@@ -1,7 +1,7 @@
 ---
 date: 2026-06-15
 title: "Library Survey: Residents' Preferences"
-linkTitle: "Library Survey"
+linkTitle: "Library survey"
 description: Take the survey and tell what you want in Darwin Green Library
 author: Quentin
 resources:

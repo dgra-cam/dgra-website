@@ -2,7 +2,7 @@
 date: 2025-08-18
 categories: ["event"]
 title: "Central Park Launch: 23rd August"
-linkTitle: "Central Park Launch"
+linkTitle: "Central Park launch"
 description: "The Central Park in Darwin Green opens at last!"
 author: Quentin
 resources:

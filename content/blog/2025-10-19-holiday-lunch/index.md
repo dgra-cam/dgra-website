@@ -3,7 +3,7 @@ date: 2025-10-19
 categories: ["event"]
 tags: ["for children"]
 title: "Holiday Lunch: 29th October 2025"
-linkTitle: "Holiday Lunch (October '25)"
+linkTitle: "Holiday lunch (October '25)"
 description: "Enjoy a free holiday lunch with neighbour children"
 author: Quentin
 resources:

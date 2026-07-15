@@ -2,7 +2,7 @@
 date: 2025-12-14
 categories: ["event"]
 title: "Christmas Carol Singing: 18th December 2025"
-linkTitle: "Christmas Carols"
+linkTitle: "Christmas carols"
 description: "Carols, fish & chips, mulled wine and churr-HO-HO-HOs!"
 author: Quentin
 resources:

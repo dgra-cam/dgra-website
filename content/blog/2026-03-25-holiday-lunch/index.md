@@ -3,7 +3,7 @@ date: 2026-03-25
 categories: ["event"]
 tags: ["for children"]
 title: "Holiday Lunch: 1st April 2026"
-linkTitle: "Holiday Lunch (April '26)"
+linkTitle: "Holiday lunch (April '26)"
 description: "Enjoy a free holiday lunch with neighbour children"
 author: Quentin
 resources:
