@@ -64,6 +64,11 @@ params:
       icon: 'fab fa-instagram'
       desc: 'DGRA X/Twitter account'
 
+    - name: 'DGRA on Threads'
+      url: 'https://www.threads.com/@darwingreencambridge'
+      icon: 'fab fa-threads'
+      desc: 'DGRA Threads account'
+
     - name: 'DGRA on X/Twitter'
       url: 'https://x.com/darwingreencam'
       icon: 'fab fa-x-twitter'
