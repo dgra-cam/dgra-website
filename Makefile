@@ -1,6 +1,6 @@
 # https://docker.hugomods.com/docs/tags/
 HUGO_IMAGE_NAME ?= hugomods/hugo
-HUGO_VERSION ?= 0.163.3
+HUGO_VERSION ?= 0.164.0
 HUGO_IMAGE ?= ${HUGO_IMAGE_NAME}:${HUGO_VERSION}
 
 DOCKER_RUN ?= docker run --rm -u $$(id -u):$$(id -g) -v $${PWD}:/src
