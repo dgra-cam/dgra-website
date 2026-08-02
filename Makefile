@@ -36,7 +36,12 @@ tidy:
 update_docsy:
 	${DOCKER_RUN} \
 		${HUGO_IMAGE} \
-		sh -c 'hugo mod get -u github.com/google/docsy && hugo mod tidy && hugo mod vendor'
+		sh -c '\
+		    hugo mod get -u github.com/google/docsy/theme@latest && \
+		    hugo mod tidy && \
+			hugo mod npm pack && \
+			npm install'
+	@echo "Done. Run 'make vendor' to update the vendor directory - although it may complete but return with an error"
 
 pull:
 	docker pull ${HUGO_IMAGE}
