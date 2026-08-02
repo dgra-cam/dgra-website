@@ -14,10 +14,6 @@ serve:
 		${HUGO_IMAGE} \
 		hugo server --buildDrafts --buildExpired --buildFuture
 
-install_postcss:
-	${DOCKER_RUN} ${HUGO_IMAGE} \
-		npm install --save-dev autoprefixer postcss-cli postcss
-
 build:
 	${DOCKER_RUN} \
 		${HUGO_IMAGE} \
@@ -57,7 +53,6 @@ update_hugo:
 
 .PHONY: default
 .PHONY: serve
-.PHONY: install_postcss
 .PHONY: build
 .PHONY: vendor
 .PHONY: tidy
