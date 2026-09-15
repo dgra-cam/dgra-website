@@ -13,7 +13,7 @@ page](/)** of this website.
 ## Food Trucks
 
 The food trucks listed in this section regularly come to sell food on the
-Plaza, on Tursday evenings **from 5 pm to 8 pm**.
+Plaza, on Thursday evenings **from 5 pm to 8 pm**.
 
 - **Manna Seoul** foodtruck comes on **the first Thursday** of the month. They
   sell Korean corn-dogs, fried chicken, and more. Find all the details on
@@ -29,6 +29,9 @@ Plaza, on Tursday evenings **from 5 pm to 8 pm**.
 
 - **HitWrap** comes **some Thursdays** to offer Hong-Kong-style noodles and
   wraps. Check out their menu on [HitWrap's website][hitwrap].
+
+We also have **Kiwi Coffee** offering a range of coffees as well as a selection
+of cakes, **Wednesdays to Sundays**, from 8 am to 2 pm on the Plaza.
 
 [mannas]: https://mannaseoulcambridge.co.uk/
 [pmondo]: https://order.pizza-mondo.co.uk/
