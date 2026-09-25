@@ -59,11 +59,3 @@ third Monday of the month**, **from 3 pm to 4:30 pm**. Find more information on
 the [Cambridgeshire County Council website][cscc].
 
 [cscc]: https://www.cambridgeshire.gov.uk/residents/libraries-leisure-culture/libraries/visit-a-library/mobile-libraries
-
-## Tea & Coffee
-
-There is a free tea and coffee drop-in at the Darwin Green Community Rooms,
-**every Wednesday from 9 am to 12:30 pm**. Find more information on the
-[Cambridge City Council website][ccc].
-
-[ccc]: https://www.cambridge.gov.uk/darwin-green-community-rooms
