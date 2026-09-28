@@ -1,0 +1,15 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//DGRA//NONSGML Events//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:event-1790628585864-3q6mzl9k@yourdomain.com
+DTSTAMP:20260928T204945Z
+DTSTART;TZID=Europe/London:20261104T110000
+DTEND;TZID=Europe/London:20261104T123000
+SUMMARY:Community Planning Meeting
+DESCRIPTION:This meeting is attended by representative from Barratt\, and sometimes from Greater Cambridge Shared Planning (GCSP). It's open to all. \n \nJoin and ask your questions\, or just listen to other people's concerns\, and get the latest updates about the development.
+LOCATION:Darwin Green Community Rooms\, 50 Galton Road\, Cambridge CB3 0UL\, UK
+END:VEVENT
+END:VCALENDAR
