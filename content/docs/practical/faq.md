@@ -5,6 +5,21 @@ description: "Frequently Asked Questions from residents about Darwin Green"
 weight: 50
 ---
 
+### How do I report an issue?
+
+See the [dedicated page]({{< ref "/docs/practical/contact/" >}}).
+
+### How do I keep up-to-date with local events?
+
+- Look at the posters displayed on the Community Room's windows
+- Subscribe to the calendar on the [homepage of this website](/)
+- Follow the association, and local residents on [social media]
+- Attend some of the [association's meetings][meetings]
+- Ask your neighbours!
+
+[social media]: {{< ref "/docs/practical/community/#online-presence" >}}
+[meetings]: {{< ref "/docs/association/meetings/" >}}
+
 ### When do facilities open?
 
 Estimates are usually provided by Barratt, the developer, during the North West
@@ -17,13 +32,16 @@ NHS Centre
 : Unknown. Fit-out contract work expected to start in summer 2026.
 
 Retail units on the Plaza
-: Occupation planned for autumn 2026.
+: Sale of the retail units estimated for the end of 2026.
 
 Sports Pavilion
-: Transfer to City Council estimated for July/August 2026.
+: Transfer to City Council estimated for Autumn 2026.
 
 Allotments (Parcel BDW2)
-: Transfer to City Council estimated for July/August 2026.
+: Transfer to City Council estimated for Autumn 2026.
+
+Connection path between Darwin Green and Franklin Gardens
+: Unknown. The work on BDW4 must progress further for the path to open.
 
 Livies Kinder Café
 : Unknown. The project received planning permission in July 2025. Check out
@@ -34,10 +52,10 @@ Potential primary school in Darwin Green 1
 with the site.
 
 Secondary school in Darwin Green 2
-: 2028 [or later][school_bbc]
+: [After 2028][school_bbc], no timeline at the moment
 
 [livies]: https://www.livies.co.uk/
-[school_bbc]: https://www.bbc.com/news/articles/cm2xl3n4pxdo
+[school_bbc]: https://www.bbc.co.uk/news/articles/c9dwe009djzo
 
 ### When is the work expected to be completed?
 
@@ -59,9 +77,9 @@ The site should be complete by the end of 2031.
 
 See the [dedicated page]({{< ref "/docs/practical/life/parking/" >}}).
 
-### Do you have a WhatsApp community group?
+### My phone has no network connection in Darwin Green, what can I do?
 
-See the [dedicated page]({{< ref "/docs/practical/community/#whatsapp" >}}).
+Residents have reported that EE provides the best coverage in the area.
 
 ### Contact for using the sports pitches?
 
