@@ -62,7 +62,8 @@ BSG
 
 DGMC
 : Darwin Green Management Company, a RMC managed by residents and taking care
-  of the [HANDLE][map-names] blocks as well as Barratt's sales office.
+  of the [HANDLE][map-names] blocks as well as Barratt's sales office (but
+  _not_ of the rest of Darwin Green).
 
 FN
 : Friendly Neighbours chat group
