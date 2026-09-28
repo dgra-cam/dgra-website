@@ -362,7 +362,7 @@ partners; reach out.
 For information about Council-run tennis courts:
 <https://cambridge.gov.uk/tennis-and-pickleball-courts>
 
-[wa]: http://localhost:1313/docs/practical/community/#whatsapp
+[wa]: {{% ref "/docs/practical/community/#whatsapp" %}}
 
 ### Community Focus meeting
 

@@ -92,7 +92,7 @@ Residents may close a gate if the plot is unoccupied, safe, and accessible. \
 If the plot is unsafe or missing handles/locks, [an email should be sent to
 Barratt][mail-barratt].
 
-[mail-barratt]: http://localhost:1313/docs/practical/contact/#darwin-green-development
+[mail-barratt]: {{% ref "/docs/practical/contact/#darwin-green-development" %}}
 
 ## DG & FG site locks
 
