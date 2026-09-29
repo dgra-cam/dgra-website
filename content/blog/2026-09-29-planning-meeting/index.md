@@ -48,9 +48,9 @@ pointed out a reported outage had not been addressed since last December.
 :green_circle: ACTIONS: AM to send Alice map of lamp posts; Alice to provide AM
 with details of current outages and lights shining directly into bedrooms.
 
-**Greenway temporary pedestrian/cycle route**: AM confirmed an order had been
-placed to remove the white line cycle symbols and to add pedestrian/cycle
-signage. Works imminent.
+**Greenway temporary pedestrian/cycle route** (cut-through to Windsor Road): AM
+confirmed an order had been placed to remove the white line cycle symbols and
+to add pedestrian/cycle signage. Works imminent.
 
 **Franklin Gardens: parking enforcement**: AM confirmed the parking enforcement
 process - notification of residents, installation of signage and one week grace
@@ -145,14 +145,17 @@ installation of metal fencing and making good of neighbour's planting.
 AM announced a review to make the Plaza a more attractive and workable space.
 It will address highway safety, traffic management including buses and
 facilities such as parking (for medical centre, retailers), bus shelter, and
-bike repair station. Sale of the six shops to be completed by the New Year.
-:green_circle: ACTIONS: AM to check requirement for post box, replace bin
+bike repair station. Sale of the six shops to be hopefully completed by the New
+Year. :green_circle: ACTIONS: AM to check requirement for post box, replace bin
 outside library, specify lighting for notice board.
 
 ## Any other business
 
 **Reporting website**: AM confirmed a new website is under construction for
 Darwin Green, when live the domain name will be `www.ourdarwingreen.co.uk`
+
+**Planning meetings**: Meetings remain on Wednesdays. Frequency becomes once
+every 6 weeks.
 
 ## Date of next meeting
 
