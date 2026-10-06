@@ -14,7 +14,7 @@ published the origin of the names, but here's our guess:
 Balfour Lane
 
 : Darwin compared [Francis Maitland Balfour] (1851--1882), embryologist,
-naturalist, and fellow of Trinity College in Cambridge, with [Georges Cuvier]
+naturalist, and Fellow of Trinity College in Cambridge, with [Georges Cuvier]
 (1769--1832), implying respect for his expertise in comparative anatomy. He
 died aged 30 while attempting the first ascent of the Aiguille Blanche, in the
 Mont Blanc massif. He was the younger brother of [Arthur Balfour] (1848--1930),
@@ -69,6 +69,12 @@ trip][beagle-trip] and bringing back Darwin to England.
 Falmouth Close
 
 : See _Falmouth Avenue_.
+
+Fell Road
+
+: Dame [Honor Fell] (1900--1986) was a scientist and zoologist. She developed
+experimental methods in organ culture, tissue culture, and cell biology. From
+1928 to 1970, she directed the Strangeways Research Laboratory in Cambridge.
 
 Galton Road
 
@@ -144,6 +150,13 @@ to 1830 -- to survey the shores of Chile, Peru, and of some islands in the
 Pacific -- and to carry a chain of chronometrical measurements round the
 World."
 
+Perutz Way
+
+: [Max Perutz] (1914--2002) was a molecular biologist; his studies of the
+structures of haemoglobin and myoglobin earned him a Nobel Prize for Chemistry.
+He founded the Medical Research Council (MRC) Laboratory of Molecular Biology
+(LMB) in Cambridge.
+
 Plymouth Close
 
 : On his second voyage, the one with Darwin on board, HMS _Beagle_ departed
@@ -161,7 +174,7 @@ daughter Annie, who died at the age of 10, probably of tuberculosis.
 Sedgwick Crescent
 
 : The Reverend [Adam Sedgwick] (1785--1873) was a British geologist and
-Anglican priest, a fellow of Trinity College in Cambridge, and one of the
+Anglican priest, a Fellow of Trinity College in Cambridge, and one of the
 founders of modern geology. He guided Charles Darwin in his study of geology
 and its practical methods on a field trip to North Wales, before the voyage of
 the _Beagle_. A conservative cleric, Sedgwick was never reconciled to Darwin's
@@ -213,11 +226,13 @@ out to be another closely allied species of finch.
 [Francis Galton]: https://en.wikipedia.org/wiki/Francis_Galton
 [Francis Maitland Balfour]: https://en.wikipedia.org/wiki/Francis_Maitland_Balfour
 [Georges Cuvier]: https://en.wikipedia.org/wiki/Georges_Cuvier
+[Honor Fell]: https://en.wikipedia.org/wiki/Honor_Fell
 [John Hutton Balfour]: https://en.wikipedia.org/wiki/John_Hutton_Balfour
 [John Stevens Henslow]: https://en.wikipedia.org/wiki/John_Stevens_Henslow
 [Josiah Wedgwood]: https://en.wikipedia.org/wiki/Josiah_Wedgwood
 [Josiah Wedgwood II]: https://en.wikipedia.org/wiki/Josiah_Wedgwood_II
 [Leonard Jenyns]: https://en.wikipedia.org/wiki/Leonard_Jenyns
+[Max Perutz]: https://en.wikipedia.org/wiki/Max_Perutz
 [Patagonia]: https://en.wikipedia.org/wiki/Patagonia
 [Randal Keynes]: https://en.wikipedia.org/wiki/Randal_Keynes
 [Robert Darwin]: https://en.wikipedia.org/wiki/Robert_Darwin
