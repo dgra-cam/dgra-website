@@ -56,7 +56,7 @@ Community & DGRA projects
 
 {{< blocks/section color="light" type="container" >}}
 <div id="home_calendar" class="text-center">
-  <iframe src="https://calendar.google.com/calendar/embed?height=500&wkst=2&ctz=Europe%2FLondon&mode=MONTH&hl=en_GB&showPrint=0&showTz=0&src=MjFlMTRhN2Y2NDAzNDc4NzEwMGIxOTBiNmQ3M2VjZDg4Mjc1NzJkZDM4NDhiYzBmMWU1MmIxNGIyYzBlNmI2N0Bncm91cC5jYWxlbmRhci5nb29nbGUuY29t&color=%230B8043"
+  <iframe src="https://calendar.google.com/calendar/embed?height=500&wkst=2&ctz=Europe%2FLondon&mode=AGENDA&hl=en_GB&title=Darwin%20Green&showPrint=0&showTz=0&src=ZTFhZmQzM2VjZGFhNjQyNDhhZDdiNmMwMGNhMWZhOGIwNGM0MDU0ZTYzODMzMDA3NWFhNmM3MjRkN2IyNTliM0Bncm91cC5jYWxlbmRhci5nb29nbGUuY29t&src=MjFlMTRhN2Y2NDAzNDc4NzEwMGIxOTBiNmQ3M2VjZDg4Mjc1NzJkZDM4NDhiYzBmMWU1MmIxNGIyYzBlNmI2N0Bncm91cC5jYWxlbmRhci5nb29nbGUuY29t&color=%23ca6510&color=%23316b29"
     style="border-width:0; margin-top: 4ex;"
     width="1200"
     height="500"
