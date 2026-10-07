@@ -13,6 +13,10 @@ weight: 20
 at the Darwin Green Community Rooms.
 
 Provisional agenda:
+- Welcome & apologies
+- Approval of [minutes for GM 2026-07-14](/blog/2026-07-16-gm-minutes/)
+- New Committee members
+- Introduction of the new Active Lifestyle Officer from City Council
 - Updates, including:
    - planning meetings
    - grants
