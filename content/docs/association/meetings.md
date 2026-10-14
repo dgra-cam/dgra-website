@@ -25,7 +25,7 @@ Then:
 
 Most recent first:
 
-- General Meeting - 12 October 2026: coming soon
+- [General Meeting - 12 October 2026]({{< ref "/blog/2026-10-20-gm-minutes/" >}})
 - [General Meeting - 14 July 2026]({{< ref "/blog/2026-07-16-gm-minutes/" >}})
 - [Annual General Meeting - 12 May 2026]({{< ref "/blog/2026-05-13-agm-minutes/" >}})
 
