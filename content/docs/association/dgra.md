@@ -43,6 +43,7 @@ Here is the current DGRA Committee:
 - Konstantina Stamati, Chair
 - Graham Steed, Treasurer
 - Quentin Monnet, Secretary
+- Alice Lewis
 - Faith Oyepeju
 - Joanna Gould
 - Melanie Hersey
