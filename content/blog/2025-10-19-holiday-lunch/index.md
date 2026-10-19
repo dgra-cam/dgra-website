@@ -24,7 +24,7 @@ Rooms on **Wednesday 29th October 2025, from 12 pm to 2 pm**.
 ![The poster for the event](poster.jpg)
 
 At the menu: "community soup" and sandwiches will be served at noon. After
-lucnch, prepare yourselves for Halloween! Children will be able to enjoy crafts
+lunch, prepare yourselves for Halloween! Children will be able to enjoy crafts
 until 2 pm. This is a good opportunity for them to meet other children from the
 neighbourhood and enjoy some Halloween-themed fun.
 
