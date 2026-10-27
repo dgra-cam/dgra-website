@@ -51,6 +51,12 @@ update_hugo:
 	sed -i "s/^\( *HUGO_VERSION = \)\"\(.*\)\"/\1\"$${VERSION}\"/" netlify.toml
 	sed -i "s/^\( *HUGO_VERSION ?= \)\(.*\)/\1$${VERSION}/" Makefile
 
+shell:
+	${DOCKER_RUN} \
+		-it \
+		${HUGO_IMAGE} \
+		/bin/ash
+
 .PHONY: default
 .PHONY: serve
 .PHONY: build
