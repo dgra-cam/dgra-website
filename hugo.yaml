@@ -88,10 +88,12 @@ params:
       icon: 'fab fa-github'
       desc: 'GitHub repository for this site'
 
-    - name: 'Analytics dashboard'
-      url: 'https://dashboard.simpleanalytics.com/dgra.cam'
-      icon: 'fa fa-chart-line'
-      desc: 'Simple Analytics public dashboard for this site'
+    - name: 'Simple Analytics dashboard'
+      url: 'https://simpleanalytics.com/dgra.cam?utm_source=dgra.cam&utm_content=badge'
+      referrerpolicy: 'origin'
+      badge:
+        light: 'https://simpleanalyticsbadges.com/dgra.cam?mode=dark&counter=false&logo=%23316B29'
+        dark: 'https://simpleanalyticsbadges.com/dgra.cam?mode=dark&counter=false&logo=%23316B29'
 
   taxonomy:
     # Empty value to disable categories/tags cloud in right sidebar

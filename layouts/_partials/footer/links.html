@@ -12,8 +12,17 @@
     <a href="{{ $url }}" aria-label="{{ .name }}"
       {{- if $isExternal }} target="_blank" {{- end -}}
       {{ with $rel }} rel="{{ . }}" {{- end -}}
+      {{ with .referrerpolicy }} referrerpolicy="{{ . }}" {{- end -}}
     >
-      <i class="{{ .icon }}"></i>
+      {{ with .badge -}}
+        <picture>
+          <source srcset="{{ .dark }}" media="(prefers-color-scheme: dark)">
+          <img class="td-footer__badge" src="{{ .light }}" alt=""
+            loading="lazy" referrerpolicy="no-referrer" crossorigin="anonymous">
+        </picture>
+      {{- else -}}
+        <i class="{{ .icon }}"></i>
+      {{- end }}
     </a>
   </li>
   {{ end }}

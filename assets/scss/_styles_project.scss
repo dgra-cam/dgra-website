@@ -54,3 +54,14 @@
     color: tint-color($link-hover-color, 50);
   }
 }
+
+/*
+ * Align image badges in footer with Font Awesome icons.
+ * Font Awesome glyphs span from -0.125em to 0.875em around the baseline, so
+ * their centre is at 0.375em. To centre the badge on the icons, use:
+ *   vertical-align = 0.375em - height / 2
+ */
+.td-footer__badge {
+  height: 1.5em;
+  vertical-align: -0.375em;
+}
