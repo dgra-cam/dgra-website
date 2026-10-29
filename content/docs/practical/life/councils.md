@@ -62,7 +62,7 @@ surrouding district councils: East Cambridgeshire, Fenland, Huntingdonshire,
 and South Cambridgeshire District Councils.
 
 {{% alert color="info" title="Local Government Reorganisation" %}}
-By April 2028, the Cambridgeshire County Council is expected to disappear, and
+By April 2029, the Cambridgeshire County Council is expected to disappear, and
 the district councils are supposed to be grouped into Unitary Authorities,
 leaving only one entity in charge of a given area instead of the current
 two-tier (Cambridge City and Cambridgeshire County) system.
@@ -73,9 +73,11 @@ decision from the government, to form a Unitary Authority that will also be
 responsible for what Cambridgeshire County Council provides today.
 
 For more information, see [Cambridge City Council's FAQ on Local Government
-Reorganisation][faq-lgr].
+Reorganisation][faq-lgr] and [the ministerial update from October
+2026][lgr-update].
 
 [faq-lgr]: https://www.cambridge.gov.uk/local-government-reorganisation-faqs
+[lgr-update]: https://cambridge.gov.uk/news/2026/10/29/local-government-reorganisation---latest-ministerial-update
 {{% /alert %}}
 
 ### Cambridgeshire and Peterborough Combined Authority
