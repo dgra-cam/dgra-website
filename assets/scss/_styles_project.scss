@@ -56,12 +56,12 @@
 }
 
 /*
- * Align image badges in footer with Font Awesome icons.
+ * Align Simple Analytics badge in footer with Font Awesome icons.
  * Font Awesome glyphs span from -0.125em to 0.875em around the baseline, so
  * their centre is at 0.375em. To centre the badge on the icons, use:
  *   vertical-align = 0.375em - height / 2
+ * The badge keeps the 40px height set in its HTML.
  */
-.td-footer__badge {
-  height: 1.5em;
-  vertical-align: -0.375em;
+#simple-analytics-badge svg {
+  vertical-align: calc(0.375em - 20px);
 }

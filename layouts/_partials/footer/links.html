@@ -1,5 +1,9 @@
 <ul class="td-footer__links-list">
   {{ range . }}
+  {{ if .simple_analytics_badge -}}
+    {{ partial "footer/simple-analytics-badge.html" . -}}
+    {{ continue -}}
+  {{ end -}}
   {{ $rel := .rel | string -}}
   {{ $url := .url -}}
   {{ $isExternal := (urls.Parse $url).IsAbs -}}
@@ -12,17 +16,8 @@
     <a href="{{ $url }}" aria-label="{{ .name }}"
       {{- if $isExternal }} target="_blank" {{- end -}}
       {{ with $rel }} rel="{{ . }}" {{- end -}}
-      {{ with .referrerpolicy }} referrerpolicy="{{ . }}" {{- end -}}
     >
-      {{ with .badge -}}
-        <picture>
-          <source srcset="{{ .dark }}" media="(prefers-color-scheme: dark)">
-          <img class="td-footer__badge" src="{{ .light }}" alt=""
-            loading="lazy" referrerpolicy="no-referrer" crossorigin="anonymous">
-        </picture>
-      {{- else -}}
-        <i class="{{ .icon }}"></i>
-      {{- end }}
+      <i class="{{ .icon }}"></i>
     </a>
   </li>
   {{ end }}
