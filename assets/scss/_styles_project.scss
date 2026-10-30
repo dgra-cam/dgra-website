@@ -65,3 +65,27 @@
 #simple-analytics-badge svg {
   vertical-align: calc(0.375em - 20px);
 }
+
+/* Placeholder for the Google Calendar embed, loaded on click */
+#home_calendar_placeholder {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  max-width: 1200px;
+  min-height: 500px;
+  margin: 0 auto;
+  padding: 1rem;
+  border: 2px dashed $gray-400;
+  border-radius: 0.5rem;
+}
+
+/*
+ * Render the calendar iframe as a block, so that it doesn't sit on the text
+ * baseline with extra space below, and has the same height as the placeholder.
+ */
+#home_calendar iframe {
+  display: block;
+  margin: 0 auto;
+  border: 0;
+}

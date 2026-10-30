@@ -56,11 +56,32 @@ Community & DGRA projects
 
 {{< blocks/section color="light" type="container" >}}
 <div id="home_calendar" class="text-center">
-  <iframe src="https://calendar.google.com/calendar/embed?height=500&wkst=2&ctz=Europe%2FLondon&mode=AGENDA&hl=en_GB&title=Darwin%20Green&showPrint=0&showTz=0&src=ZTFhZmQzM2VjZGFhNjQyNDhhZDdiNmMwMGNhMWZhOGIwNGM0MDU0ZTYzODMzMDA3NWFhNmM3MjRkN2IyNTliM0Bncm91cC5jYWxlbmRhci5nb29nbGUuY29t&src=MjFlMTRhN2Y2NDAzNDc4NzEwMGIxOTBiNmQ3M2VjZDg4Mjc1NzJkZDM4NDhiYzBmMWU1MmIxNGIyYzBlNmI2N0Bncm91cC5jYWxlbmRhci5nb29nbGUuY29t&color=%23ca6510&color=%23316b29"
-    style="border-width:0; margin-top: 4ex;"
-    width="1200"
-    height="500"
-    frameborder="0"
-    scrolling="no"></iframe>
+  <p class="h2 mb-4">Calendar</p>
+  <!--
+    Do not embed the Google Calendar iframe directly: it sets Google cookies
+    (NID) on page load. Only load it when the visitor asks for it.
+  -->
+  <div id="home_calendar_placeholder">
+    <p>
+      Our events calendar is hosted by Google. Loading it lets Google set
+      cookies on your device.
+    </p>
+    <p>
+      <button type="button" class="btn btn-primary" id="home_calendar_load">Show calendar</button>
+    </p>
+    <p>
+      <a id="home_calendar_link" href="https://calendar.google.com/calendar/embed?height=500&wkst=2&ctz=Europe%2FLondon&mode=AGENDA&hl=en_GB&title=Darwin%20Green&showPrint=0&showTz=0&src=ZTFhZmQzM2VjZGFhNjQyNDhhZDdiNmMwMGNhMWZhOGIwNGM0MDU0ZTYzODMzMDA3NWFhNmM3MjRkN2IyNTliM0Bncm91cC5jYWxlbmRhci5nb29nbGUuY29t&src=MjFlMTRhN2Y2NDAzNDc4NzEwMGIxOTBiNmQ3M2VjZDg4Mjc1NzJkZDM4NDhiYzBmMWU1MmIxNGIyYzBlNmI2N0Bncm91cC5jYWxlbmRhci5nb29nbGUuY29t&color=%23ca6510&color=%23316b29" target="_blank" rel="noopener noreferrer">Open in Google Calendar</a>
+    </p>
+  </div>
+  <script>
+    document.getElementById("home_calendar_load").addEventListener("click", function () {
+      var iframe = document.createElement("iframe");
+      iframe.src = document.getElementById("home_calendar_link").href;
+      iframe.title = "Darwin Green calendar";
+      iframe.width = "1200";
+      iframe.height = "500";
+      document.getElementById("home_calendar_placeholder").replaceWith(iframe);
+    });
+  </script>
 </div>
 {{< /blocks/section >}}
