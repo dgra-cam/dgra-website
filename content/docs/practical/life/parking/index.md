@@ -42,6 +42,6 @@ have occurred. It is Not Recommended to park here.
 A white car on a big stone supposed to mark the limit between pavement and road
 at the intersection of Galton Road and Patagonia Way, the front wheels not
 touching the ground. Do not attempt to reproduce at home.
+
+<span style="opacity: 50%;">_All rights reserved._</span>
 {{% /imgproc %}}
-
-
