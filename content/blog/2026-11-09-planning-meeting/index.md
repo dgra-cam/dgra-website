@@ -139,14 +139,14 @@ that residents want immediate responses.
 
 ## Woodlark Road ditch
 
-Andrew had reported a non-material application, 21/04431/NMA1 COND9 (Perimeter
-Boundary Fencing). :green_circle: ACTION: Simon to remind Matt of need to keep
-Woodlark Road residents informed of the works in compliance with the approved
-drawings.
+Andrew had reported a non-material application, [21/04431/NMA1] COND9
+(Perimeter Boundary Fencing). :green_circle: ACTION: Simon to remind Matt of
+need to keep Woodlark Road residents informed of the works in compliance with
+the approved drawings.
 
 ## BDW2 landscaping
 
-Discharge of condition application 07/0003/COND14A has been submitted.
+Discharge of condition application [07/0003/COND14A] has been submitted.
 :green_circle: ACTION: John to check its current status.
 
 ## Jenyns Drive front gardens
@@ -203,9 +203,10 @@ the Franklin Gardens sales office.
 ### Local issues
 
 **BDW2 Falmouth Avenue raised table**: Request for raised table (at Loc 13
-adjacent to No 54) to be constructed in compliance with 14/0086/REM 16483-2008
-L, “Amended surface finishes” and 16483-2083 B, “Amended intermediate event
-location & details”. :green_circle: ACTION John to check for non-compliance.
+adjacent to No 54) to be constructed in compliance with [14/0086/REM]
+16483-2008 L, “Amended surface finishes” and 16483-2083 B, “Amended
+intermediate event location & details”. :green_circle: ACTION John to check for
+non-compliance.
 
 **BDW2 canopies over front doors**: Alex reported the canopies drain towards
 the brickwork and need to be redesigned. :green_circle: ACTIONS John to check
@@ -250,4 +251,7 @@ include a briefing by County Council Education officers.
 
 [customer care email]: mailto:southmidlands@newhomecare.co.uk
 [Fearless]: https://crimestoppers-uk.org/fearless/what-is-fearless
+[21/04431/NMA1]: https://applications.greatercambridgeplanning.org/online-applications/applicationDetails.do?activeTab=summary&keyVal=TGSARLDXJBK00
+[07/0003/COND14A]: https://applications.greatercambridgeplanning.org/online-applications/applicationDetails.do?activeTab=summary&keyVal=TGRJ0JDXJ9E00
+[14/0086/REM]: https://applications.greatercambridgeplanning.org/online-applications/applicationDetails.do?activeTab=documents&keyVal=MZST2LDX08G00
 [NWWCCF]: https://cambridge.gov.uk/north-west-and-west-community-forum/
