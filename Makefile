@@ -43,11 +43,6 @@ build: ${DEPS}
 		${HUGO_IMAGE} \
 		sh -c '${HUGO}'
 
-vendor: ${DEPS}
-	${DOCKER_RUN} \
-		${HUGO_IMAGE} \
-		sh -c '${HUGO} mod vendor'
-
 tidy:
 	${DOCKER_RUN} \
 		${HUGO_IMAGE} \
@@ -61,7 +56,6 @@ update_docsy:
 		    hugo mod tidy && \
 			hugo mod npm pack && \
 			npm install --ignore-scripts'
-	@echo "Done. Run 'make vendor' to update the vendor directory - although it may complete but return with an error"
 
 pull:
 	docker pull ${HUGO_IMAGE}
@@ -85,7 +79,6 @@ shell:
 .PHONY: deps
 .PHONY: serve
 .PHONY: build
-.PHONY: vendor
 .PHONY: tidy
 .PHONY: update_docsy
 .PHONY: update_hugo
