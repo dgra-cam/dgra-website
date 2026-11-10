@@ -86,6 +86,12 @@
  */
 #home_calendar iframe {
   display: block;
+  /*
+   * Same sizing as the placeholder; this overrides the width attribute, but we
+   * keep the attribute as a default in case CSS doesn't load.
+   */
+  width: 100%;
+  max-width: 1200px;
   margin: 0 auto;
   border: 0;
 }
