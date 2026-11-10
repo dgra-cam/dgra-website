@@ -1,0 +1,51 @@
+# Abbreviations, automatically wrapped in <abbr title="..."> on every page by
+# assets/js/abbr.js. Matching is case-sensitive, on whole words only (a
+# trailing plural "s" is allowed: "RMCs" gets "RMC" wrapped).
+#
+# To prevent expansion in a given block, add class "no-abbr" to it, e.g. with
+# the {.no-abbr} block attribute in Markdown.
+
+AGM: Annual General Meeting
+ASB: Anti-Social Behaviour
+BDW: Barratt David Wilson Homes
+BDW1: Darwin Green 1, Parcel 1
+BDW2: Darwin Green 1, Parcel 2
+BDW3: Darwin Green 1, Parcel 3
+BDW4: Darwin Green 1, Parcel 4
+BDW5: Darwin Green 1, Parcel 5 (Franklin Gardens)
+BDW6: Darwin Green 1, Parcel 6 (Franklin Gardens)
+CCTV: Closed-Circuit Television
+CGC: Cambridge Growth Company
+CIC: Community Interest Company
+CPCA: Cambridgeshire and Peterborough Combined Authority
+DDA: Disability Discrimination Act
+DG: Darwin Green
+DG1: Darwin Green 1
+DGRA: Darwin Green Residents’ Association
+ERA: Eddington Residents’ Association
+FAQ: Frequently Asked Questions
+FG: Franklin Gardens
+GCDC: Greater Cambridge Development Corporation
+GCSP: Greater Cambridge Shared Planning
+GM: General Meeting
+GP: General Practitioner
+HANDLE: Hawking, Newton, Darwin, Lewis
+KC: King’s Court
+LGR: Local Government Reorganisation
+LPA: Local Planning Authority
+LWR: Lawrence Weaver Road
+MUGA: Multi-Use Games Area
+NEAP: Neighbourhood Equipped Area for Play
+NHS: National Health Service
+NIAB: National Institute of Agricultural Botany
+NMA: Non-Material Amendment
+NPPF: National Planning Policy Framework
+NW: Neighbourhood Watch
+NWWCCF: North and North West Cambridge Community Forum
+OUT: Outline Planning Application
+PC: Parish Council
+REM: Reserved Matters
+RMA: Reserved Matters Application
+RMC: Residents’ Management Company
+S106: Section 106 agreement
+WIRE: Windsor Road Residents’ Association

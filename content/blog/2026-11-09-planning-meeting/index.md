@@ -222,7 +222,7 @@ direct WIRE to approved final drawings.
 needs to be fenced for pedestrian and cyclist safety. :green_circle: ACTION
 Alice to report to [customer care email].
 
-**BDW 5/6 boundary between plots 202--205 and Martingale Close**: Mitigation
+**BDW5/6 boundary between plots 202--205 and Martingale Close**: Mitigation
 works remain outstanding: levels survey, possible land drains and topsoil fill
 to newly created ditch, boundary fencing, and replacement of failed infill
 planting. :green_circle: ACTION Simon to ask Tom for update.

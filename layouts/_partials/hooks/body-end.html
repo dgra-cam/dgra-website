@@ -1,0 +1,4 @@
+{{/* Docsy hook, rendered at the end of <body> on every page. */ -}}
+{{ with resources.Get "js/abbr.js" | resources.ExecuteAsTemplate "js/abbr.js" . | minify | fingerprint -}}
+<script src="{{ .RelPermalink }}" integrity="{{ .Data.Integrity }}" crossorigin="anonymous"></script>
+{{ end -}}

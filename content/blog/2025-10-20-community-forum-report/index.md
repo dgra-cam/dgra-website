@@ -204,7 +204,7 @@ secondary schools planned for Darwin Green 2 & 3.
 ### Questions and answers
 
 - Residents would like to know what Barratt plan to do to avoid disastrous
-  service quality from Resident Management Companies (RMCs) to occur again.
+  service quality from Residents' Management Companies (RMCs) to occur again.
   Barratt is very mindful of the issues that arose in Phase 1 and does not want
   to reproduce them. They are trying to learn from past mistakes, but they
   pointed out they are not yet at the stage of selecting RMCs for Darwin Green
