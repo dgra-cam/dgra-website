@@ -1,9 +1,11 @@
-# https://docker.hugomods.com/docs/tags/
-HUGO_IMAGE_NAME ?= hugomods/hugo
+# Official Hugo image: https://github.com/gohugoio/hugo/pkgs/container/hugo
+HUGO_IMAGE_NAME ?= ghcr.io/gohugoio/hugo
 HUGO_VERSION ?= 0.164.0
-HUGO_IMAGE ?= ${HUGO_IMAGE_NAME}:${HUGO_VERSION}
+HUGO_IMAGE ?= ${HUGO_IMAGE_NAME}:v${HUGO_VERSION}
 
-DOCKER_RUN ?= docker run --rm -u $$(id -u):$$(id -g) -v $${PWD}:/src
+# Skip the image's entrypoint, which runs "npm i" and prefixes all commands
+# with "hugo".
+DOCKER_RUN ?= docker run --rm -u $$(id -u):$$(id -g) -v $${PWD}:/src -w /src --entrypoint ""
 PUBLISH_PORT ?= 1313
 
 default: serve
@@ -12,7 +14,7 @@ serve:
 	${DOCKER_RUN} \
 		-p ${PUBLISH_PORT}:1313 \
 		${HUGO_IMAGE} \
-		hugo server --buildDrafts --buildExpired --buildFuture
+		hugo server --bind 0.0.0.0 --buildDrafts --buildExpired --buildFuture
 
 build:
 	${DOCKER_RUN} \
@@ -47,7 +49,7 @@ update_hugo:
 		echo "usage: make update_hugo VERSION=1.2.3"; \
 		exit 1; \
 	fi;
-	docker pull ${HUGO_IMAGE_NAME}:$${VERSION}
+	docker pull ${HUGO_IMAGE_NAME}:v$${VERSION}
 	sed -i "s/^\( *HUGO_VERSION = \)\"\(.*\)\"/\1\"$${VERSION}\"/" netlify.toml
 	sed -i "s/^\( *HUGO_VERSION ?= \)\(.*\)/\1$${VERSION}/" Makefile
 
@@ -55,7 +57,7 @@ shell:
 	${DOCKER_RUN} \
 		-it \
 		${HUGO_IMAGE} \
-		/bin/ash
+		/bin/sh
 
 .PHONY: default
 .PHONY: serve
@@ -65,3 +67,4 @@ shell:
 .PHONY: update_docsy
 .PHONY: update_hugo
 .PHONY: pull
+.PHONY: shell
