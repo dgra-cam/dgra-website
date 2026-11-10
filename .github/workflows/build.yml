@@ -22,9 +22,11 @@ jobs:
           persist-credentials: false
           fetch-depth: 1
 
+      # Install from within the Hugo image used by "make build", to get the
+      # binaries (Dart Sass) for the image's platform.
       - name: Install dependencies
         run: |
-          npm clean-install
+          make deps
 
       - name: Build website
         run: |

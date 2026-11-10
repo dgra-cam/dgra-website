@@ -19,5 +19,8 @@
   "homepage": "https://github.com/dgra-cam/dgra-website#readme",
   "workspaces": [
     "packages/hugoautogen"
-  ]
+  ],
+  "devDependencies": {
+    "sass-embedded": "1.106.1"
+  }
 }
