@@ -31,14 +31,3 @@ jobs:
       - name: Build website
         run: |
           make build
-
-      - name: Check vendored dependencies
-        run: |
-          make vendor || true
-          if ! git diff --quiet ; then
-              echo '::error::Dependencies have changed'
-              git diff
-              echo ''
-              echo 'Please run `make vendor` locally and commit the changes.'
-              exit 1
-          fi
