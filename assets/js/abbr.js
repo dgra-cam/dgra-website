@@ -1,7 +1,7 @@
 // Wrap known abbreviations from data/abbr.yaml in <abbr title="..."> tags.
 // This file is a Hugo template: the dictionary is injected at build time.
 (() => {
-  const ABBR = {{ site.Data.abbr | default dict | jsonify }};
+  const ABBR = {{ hugo.Data.abbr | default dict | jsonify }};
   const root = document.querySelector('main');
   const keys = Object.keys(ABBR).sort((a, b) => b.length - a.length);
   if (!root || !keys.length) return;
