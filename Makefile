@@ -1,6 +1,6 @@
 # Official Hugo image: https://github.com/gohugoio/hugo/pkgs/container/hugo
 HUGO_IMAGE_NAME ?= ghcr.io/gohugoio/hugo
-HUGO_VERSION ?= 0.164.0
+HUGO_VERSION ?= 0.169.0
 HUGO_IMAGE ?= ${HUGO_IMAGE_NAME}:v${HUGO_VERSION}
 
 # Skip the image's entrypoint, which runs "npm i" and prefixes all commands
