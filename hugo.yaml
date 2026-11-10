@@ -5,7 +5,7 @@ title: DGRA
 module:
   proxy: "direct"
   imports:
-    path: "github.com/google/docsy/theme"
+    path: "github.com/docsy/docsy/theme"
 
 markup:
   goldmark:

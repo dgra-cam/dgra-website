@@ -57,7 +57,7 @@ update_docsy:
 	${DOCKER_RUN} \
 		${HUGO_IMAGE} \
 		sh -c '\
-		    hugo mod get -u github.com/google/docsy/theme@latest && \
+		    hugo mod get -u github.com/docsy/docsy/theme@latest && \
 		    hugo mod tidy && \
 			hugo mod npm pack && \
 			npm install --ignore-scripts'
